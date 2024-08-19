@@ -1,3 +1,18 @@
+- title: IRCDL
+  year: 2025
+  id: ircdl25
+  full_name: 21st Conference on Information and Research Science Connecting to Digital and Library Science
+  link: https://ircdl2025.uniud.it/
+  deadline: 2024-12-06 23:59
+  abstract_deadline: 2024-12-06 23:59
+  timezone: UTC-12
+  place: Udine, Italy
+  date: February 20 - February 21, 2025
+  start: 2025-02-20
+  end: 2025-02-21
+  sub: ['ML', 'CV', 'SP', 'KR']
+  note: Two-track conference (Computer Science and Digital Humanities) with Journal Special Issue Opportunities. PDF of the call for papers with more info <a href='https://ircdl2025.uniud.it/assets/pdf/ircdl_2025_cfp.pdf'>here</a>.
+
 - title: ICLR
   year: 2025
   id: iclr25
@@ -12,7 +27,6 @@
   hindex: 304
   sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
   note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
-  
 
 - title: LoG
   year: 2024
