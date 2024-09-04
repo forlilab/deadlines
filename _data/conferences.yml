@@ -1,3 +1,17 @@
+- title: TEDAI
+  year: 2024
+  id: tedai2024
+  full_name: TEDAI San Francisco 2024
+  link: https://tedai-sanfrancisco.ted.com
+  deadline: '2024-10-22 09:00:00'
+  timezone: America/Los_Angeles
+  place: Herbst Theatre, San Francisco, USA
+  date: October 22-23, 2024
+  start: 2024-10-22
+  end: 2024-10-23
+  sub: ['ML', 'CV', 'NLP', 'RO', 'SP', 'KR', 'HCI']
+  note: Join us for TEDAI San Francisco 2024 to explore the future of AI and its profound impact on industries, communities, and culture through talks, hackathons, panels, and discussions with leading innovators.
+
 - title: NAACL
   year: 2025
   id: naacl25
