@@ -2681,3 +2681,16 @@
   end: '2025-03-28'
   sub: CV
   hindex: 47
+
+- title: SaTML
+  year: 2025
+  id: satml25
+  full_name: IEEE Conference on Secure and Trustworthy Machine Learning
+  link: https://www.satml.org
+  deadline: ["2024-09-18 23:59:59"]
+  date: April, 9-11, 2025
+  start: 2025-04-09
+  end: 2025-04-11 
+  place: Copenhagen, Denmark
+  sub: ML
+  hindex: -1  
