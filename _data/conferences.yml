@@ -1,3 +1,33 @@
+- title: IJCNN
+  full_name: International Joint Conference on Neural Networks 2025
+  year: 2025
+  id: ijcnn25
+  link: https://2025.ijcnn.org
+  deadline: '2025-01-15 23:59:59'
+  timezone: UTC-12
+  place: Rome, Italy
+  date: June 30 - July 05, 2025
+  start: 2025-06-30
+  end: 2025-07-05
+  hindex: 64
+  sub: ['ML']
+  note: All deadlines expire on 23:59 AoE (UTC - 12).
+  
+- title: ECML PKDD
+  full_name: European Conference on Machine Learning and Knowledge Discovery in Databases 2025
+  year: 2025
+  id: ecmlpkdd25
+  link: https://ecmlpkdd.org/2025/
+  deadline: '2024-12-13 23:59:59'
+  timezone: UTC-12
+  place: Porto, Portugal
+  date: September 15-19, 2025
+  start: 2025-09-15
+  end: 2025-09-19
+  hindex: 45
+  sub: ['ML','DM']
+  note: All deadlines expire on 23:59 AoE (UTC - 12). Submissions for Journal Tracks.
+
 - title: NAACL
   year: 2025
   id: naacl25
@@ -132,6 +162,21 @@
   end: 2025-03-14
   sub: DM
 
+- title: EPIA
+  full_name: 23rd EPIA International Conference on Artificial Intelligence
+  year: 2024
+  id: epia2024
+  link: https://epia2024.pt/
+  deadline: '2024-04-30 23:59:59'
+  timezone: UTC-0
+  place: Viana do Castelo, Portugal
+  date: September 03-06, 2024
+  start: 2024-09-03
+  end: 2024-09-06
+  hindex: 16
+  sub: ['ML', 'NLP']
+  note: All deadlines expire on 23:59 AoE (UTC - 0).
+  
 - title: Iberamia
   year: 2024
   id: iberamia24
