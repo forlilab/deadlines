@@ -58,6 +58,7 @@ To add or update a deadline:
 - [https://deadlines.cpusec.org/ (Computer Architecture-Security conferences)][19] by @hoseinyavarzadeh
 - [se-deadlines.github.io (Software engineering conferences)][20] by @sivanahamer and @imranur-rahman
 - [awesome-mlss (Machine Learning Summer Schools)][21] by @sshkhr and @gmberton
+- [fl-deadlines (Federated Learning)][22] by @marcellomaugeri
 
 ## License
 
@@ -87,3 +88,4 @@ It uses:
 [19]: https://deadlines.cpusec.org/
 [20]: https://se-deadlines.github.io/
 [21]: https://awesome-mlss.com/
+[22]: https://fl-deadlines.github.io/
