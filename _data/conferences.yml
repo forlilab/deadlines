@@ -57,7 +57,21 @@
   sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
   note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
   
-
+- title: AISTATS
+  year: 2025
+  id: aistats25
+  link: https://www.aistats.org/aistats2025/
+  deadline: '2024-10-10 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: UTC-12
+  place: Mai Khao, Thailand
+  date: May 03-05, 2024
+  start: 2025-05-03
+  end: 2025-05-05
+  hindex: 91
+  sub: ML
+  note: Mandatory abstract deadline on Oct 3, 2024. More info <a href='https://aistats.org/aistats2025/dates.html'>here</a>.
+  
 - title: LoG
   year: 2024
   id: log24
