@@ -227,8 +227,8 @@
   abstract_deadline: '2024-08-07 23:59:59'
   timezone: UTC-12
   place: Philadelphia, USA
-  date: February 25 - March 04, 2025
-  start: 2025-02-25
+  date: February 27 - March 04, 2025
+  start: 2025-02-27
   end: 2025-03-04
   hindex: 212
   sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
