@@ -1,3 +1,17 @@
+- title: MICCAI
+  year: 2025
+  id: miccai2025
+  link: https://conferences.miccai.org/2025/en/
+  deadline: '2025-02-20 23:59:59'
+  timezone: America/Los_Angeles
+  place: Daejeon, South Korea
+  date: September 23 - September 27, 2025
+  start: 2025-09-23
+  end: 2025-09-27
+  hindex: 96
+  sub: CV
+  note: Mandatory paper registration deadline on February 06, 2025. More info <a href='https://conferences.miccai.org/2025/'>here</a>.
+
 - title: AISTATS
   year: 2025
   id: aistats25
