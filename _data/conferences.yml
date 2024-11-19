@@ -1,3 +1,16 @@
+- title: ICML
+  year: 2025
+  id: icml25
+  link: https://icml.cc/Conferences/2025
+  deadline: '2025-01-31 23:59:59'
+  timezone: UTC-12
+  place: Vancouver, Canada
+  date: July 13-19, 2025
+  start: 2025-07-13
+  end: 2025-07-19
+  hindex: 263
+  sub: ML
+
 - title: AISTATS
   year: 2025
   id: aistats25
