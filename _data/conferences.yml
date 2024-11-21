@@ -1,3 +1,16 @@
+- title: EUROGRAPHICS
+  year: 2025
+  id: eurographics25
+  link: https://eg25.cs.ucl.ac.uk/main/home.html
+  deadline: '2024-10-04 23:59:59'
+  abstract_deadline: '2024-10-03 23:59:59'
+  timezone: GMT
+  place: London, UK
+  date: May 12-16, 2025
+  start: 2025-05-12
+  end: 2025-05-16
+  sub: CV
+
 - title: AISTATS
   year: 2025
   id: aistats25
