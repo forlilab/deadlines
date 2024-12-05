@@ -1,3 +1,112 @@
+- title: CoRL
+  year: 2025
+  id: corl25
+  link: https://corl.org
+  deadline: '2025-04-28 23:59:00'
+  timezone: UTC-12
+  place: Seoul, South Korea
+  date: September 27-30, 2025
+  start: 2025-09-27
+  end: 2025-09-30
+  sub: RO
+  note: Optional supplementary deadline on May 05, 2025. More info <a href='https://corl.org'>here</a>.
+
+- title: UAI
+  year: 2025
+  id: uai25
+  link: https://www.auai.org/uai2025/
+  deadline: '2025-02-10 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: July 21-25, 2025
+  start: 2025-07-21
+  end: 2025-07-25
+  sub: ML
+
+- title: IROS
+  year: 2025
+  id: iros25
+  link: http://www.iros25.org
+  deadline: '2025-03-01 23:59:59'
+  timezone: America/Los_Angeles
+  place: Hangzhou, China
+  date: October 19-25, 2025
+  start: 2025-10-19
+  end: 2025-10-25
+  hindex: 86
+  sub: RO
+
+- title: ECAI
+  year: 2025
+  id: ecai25
+  link: https://ecai2025.org
+  deadline: '2025-05-06 23:59:59'
+  abstract_deadline: '2025-04-29 23:59:59'
+  timezone: UTC-12
+  place: Bologna, Italy
+  date: October 25-30, 2025
+  start: 2025-10-25
+  end: 2025-10-30
+  sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
+  note: Mandatory abstract deadline on April 29, 2025. More info <a href='https://ecai2025.org'>here</a>.
+
+- title: RLC
+  year: 2025
+  id: rlc25
+  link: https://rl-conference.cc/
+  deadline: '2025-02-21 23:59:59'
+  abstract_deadline: '2025-02-14 23:59:59'
+  timezone: UTC-12
+  place: Edmonton, AB, Canada
+  date: August 05-08, 2025
+  start: 2025-08-05
+  end: 2025-08-08
+  sub: ML
+  note: Mandatory abstract deadline on February 14, 2025. More info <a href='https://rl-conference.cc/index.html'>here</a>.
+
+- title: InterSpeech
+  year: 2025
+  id: interspeech25
+  link: http://www.interspeech2025.org/
+  deadline: '2025-02-12 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, The Netherlands
+  date: August 17 - August 21, 2025
+  start: 2025-08-17
+  end: 2025-09-21
+  hindex: 111
+  sub: SP
+
+- title: RSS
+  year: 2025
+  id: rss25
+  link: https://roboticsconference.org/2025
+  deadline: '2025-01-24 23:59:59'
+  abstract_deadline: '2025-01-17 23:59:59'
+  timezone: UTC-12
+  place: Los Angeles, CA, USA
+  date: June 21-25, 2025
+  start: 2025-06-21
+  end: 2025-06-25
+  hindex: 66
+  sub: RO
+  note: Optional supplementary material deadline on January 31, 2025. More info <a href='https://roboticsconference.org/2025'>here</a>.
+
+- title: ICAPS
+  year: 2025
+  id: icaps25
+  link: https://icaps25.icaps-conference.org/
+  deadline: '2024-11-01 23:59:59'
+  abstract_deadline: '2024-10-25 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: November 09-14, 2025
+  start: 2025-11-09
+  end: 2025-11-14
+  hindex: 32
+  sub: AP
+  note: Mandatory abstract deadline on October 25, 2024. More info <a href='https://icaps25.icaps-conference.org/'>here</a>.
+
 - title: AISTATS
   year: 2025
   id: aistats25
@@ -392,7 +501,7 @@
 - title: CoRL
   year: 2024
   id: corl24
-  link: https://corl.org
+  link: https://2024.corl.org
   deadline: '2024-06-06 23:59:00'
   timezone: UTC-12
   place: Munich, Germany
@@ -541,7 +650,7 @@
 - title: RLC
   year: 2024
   id: rlc24
-  link: https://rl-conference.cc/
+  link: http://rl-conference.cc/2024/
   deadline: '2024-03-08 23:59:59'
   abstract_deadline: '2024-03-01 23:59:59'
   timezone: UTC-12
