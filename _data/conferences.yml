@@ -1,3 +1,17 @@
+title: CHIL
+  year: 2025
+  id: chil25
+  link: https://chil.ahli.cc/submit/call-for-papers/
+  deadline: '2025-02-10 23:59:59'
+  abstract_deadline: 
+  timezone: UTC-12
+  place: Berkeley, California
+  date: June 25-27, 2025
+  start: 2025-06-25
+  end: 2025-06-27
+  sub: ML
+  note: Please check the website for the latest updates.
+  
 - title: AISTATS
   year: 2025
   id: aistats25
