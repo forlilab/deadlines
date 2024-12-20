@@ -1,3 +1,18 @@
+- title: COLT
+  year: 2025
+  id: colt225
+  link: https://aistats.org/aistats2025/index.html
+  deadline: '2025-02-06 10:00:00'
+  abstract_deadline: '2024-02-06 10:00:00'
+  timezone: UTC-12
+  place: Lyon, France
+  date: Jun 30 - July 04, 2025
+  start: 2025-06-30
+  end: 2025-07-04
+  hindex: 100
+  sub: ML
+  note: More info regarding the important dates can be found <a href='https://learningtheory.org/colt2025/index.html#important-dates'>here</a>
+
 - title: AISTATS
   year: 2025
   id: aistats25
