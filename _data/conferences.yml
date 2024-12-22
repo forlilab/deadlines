@@ -1,3 +1,17 @@
+- title: ICCV
+  year: 2025
+  id: iccv2025
+  link: https://iccv2025.thecvf.com/
+  deadline: '2025-03-07 07:59:00'
+  timezone: UTC
+  place: Honolulu, Hawaii, United States
+  date: October 19, 2025
+  start: 2025-10-19
+  end: 2025-10-23
+  hindex: 291
+  sub: CV
+  note: Supplementary deadline details to be announced. More info <a href='https://iccv2025.thecvf.com/'>here</a>.
+  
 - title: AISTATS
   year: 2025
   id: aistats25
