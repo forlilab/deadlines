@@ -1,3 +1,20 @@
+- title: MathAI 2025 Conference
+  year: 2025
+  id: MathAI2025
+  link: https://mathai.club
+  deadline: '2025-02-20 23:59'
+  abstract_deadline: '2025-02-01 23:59'
+  timezone: Russia/Moscow
+  place: Sirius, Sochi, Russia
+  date: March, 24-28, 2025
+  start: 2025-03-24
+  end: 2025-03-28
+  paperslink: https://openreview.net/group?id=mathai.club/MathAI/2025/Conference
+  pwclink: https://openreview.net/group?id=mathai.club/MathAI/2025/Conference
+  hindex: 100.0
+  sub: ML
+  note: Abstract deadline on February 1, 2025. More info <a href='https://mathai.club/call-for-papers'>here</a>
+
 - title: AISTATS
   year: 2025
   id: aistats25
