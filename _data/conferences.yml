@@ -1,3 +1,32 @@
+- title: ICML
+  year: 2025
+  id: icml25
+  link: https://icml.cc/
+  deadline: '2025-01-30 23:59:59'
+  abstract_deadline: '2025-01-23 23:59:59'
+  timezone: UTC
+  place: Vancouver, Canada
+  date: July 13-19, 2025
+  start: 2025-07-13
+  end: 2025-07-19
+  hindex: 268
+  sub: ML
+  note: Abstract deadline on January 23. More info <a href='https://icml.cc/Conferences/2025/CallForPapers'>here</a>
+- title: IJCAI
+  year: 2025
+  id: ijcai25
+  link: https://2025.ijcai.org/
+  deadline: '2025-01-23 23:59:59'
+  abstract_deadline: '2025-01-16 23:59:59'
+  timezone: UTC-12
+  place: Montreal, Canada
+  date: Aug 16-23, 2025
+  start: 2025-08-16
+  end: 2025-08-23
+  hindex: 136
+  sub: ML
+  note: Abstract deadline on January 16. More info <a href='https://2025.ijcai.org/call-for-papers-main-track/'>here</a>
+
 - title: AISTATS
   year: 2025
   id: aistats25
