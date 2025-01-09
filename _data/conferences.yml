@@ -1,3 +1,18 @@
+- title: MIPR
+  year: 2025
+  id: mipr25
+  full_name: IEEE International Conference on Multimedia Information Processing and Retrieval
+  link: http://www.ieee-mipr.org
+  deadline: 2025-03-15 23:59
+  timezone: America/Los_Angeles
+  place: San Jose, CA, USA
+  date: August 6–8, 2025
+  start: 2025-08-06
+  end: 2025-08-08
+  paperslink: https://cmt3.research.microsoft.com/MIPR2025
+  sub: Multimedia
+  note: Includes keynote speeches, workshops, tutorials, and challenge contests.
+
 - title: AISTATS
   year: 2025
   id: aistats25
