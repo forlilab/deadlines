@@ -1,3 +1,15 @@
+- title: AI4X
+  year: 2025
+  id: ai4x25
+  link: https://ai4x.cc/
+  deadline: '2025-02-28 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: July 8-11, 2025
+  start: 2025-07-08
+  end: 2025-07-11
+  sub: ['ML', 'RO']
+
 - title: AISTATS
   year: 2025
   id: aistats25
