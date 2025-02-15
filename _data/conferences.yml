@@ -1,3 +1,18 @@
+- title: Arize:Observe
+  year: 2025
+  id: observe25 
+  full_name: The AI Observability and Evaluation Conference 
+  link: https://arize.com/observe-2025/
+  deadline: '2025-04-30 23:59' 
+  abstract_deadline: '2025-04-30 23:59'
+  timezone: UTC-8
+  place: San Francisco, California
+  date: June 25, 2025
+  start: 2025-06-25
+  end: 2025-06-25
+  sub: ML
+  note: First abstract deadline March 15, 2025. Second abstract deadline April 30, 2025. 
+
 - title: AISTATS
   year: 2025
   id: aistats25
