@@ -1,3 +1,21 @@
+- title: NeurIPS
+  year: 2025
+  id: neurips25
+  full_name: Conference on Neural Information Processing Systems
+  hindex: 309
+  link: https://nips.cc/Conferences/2025
+  paperslink: https://proceedings.neurips.cc/
+  pwclink: https://paperswithcode.com/conference/neurips-2025-12
+  deadline: '2024-05-15 19:59:59'
+  abstract_deadline: '2024-05-11 19:59:59'
+  timezone: UTC
+  place: San Diego, California (US)
+  date: December 2 - December 7, 2024
+  start: 2025-12-02
+  end: 2025-12-7
+  sub: ML
+  note: Mandatory abstract deadline on May 11, 2025
+
 - title: AISTATS
   year: 2025
   id: aistats25
