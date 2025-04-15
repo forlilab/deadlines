@@ -1,3 +1,18 @@
+- title: DS
+  year: 2025
+  id: ds25
+  link: https://ds2025.ijs.si/
+  deadline: '2025-05-24 23:59:59'
+  abstract_deadline: '2025-05-17 23:59:59'
+  timezone: UTC-12
+  place: Ljubljana, Slovenia
+  date: September 22-26, 2025
+  start: 2025-09-22
+  end: 2025-09-26
+  sub: ML
+  note: More info <a href='https://ds2025.ijs.si/'>here</a>
+
+
 - title: AISTATS
   year: 2025
   id: aistats25
