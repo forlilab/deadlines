@@ -1,3 +1,18 @@
+- title: VINCI
+  year: 2025
+  id: vinci25
+  full_name: International Symposium on Visual Information Communication and Interaction
+  link: https://vinci2025.games.cg.jku.at/
+  deadline: '2025-06-13 23:59:59'
+  timezone: UTC+1
+  place: Linz, Austria
+  date: Dec 01-03, 2025
+  start: 2025-12-01
+  end: 2025-12-03
+  hindex: 100
+  sub: ['ML', 'CG', 'HCI']
+  note: VINCI '25 includes tracks of Technical Papers, Art Papers, and Art and Media Galleries. More info <a href='https://vinci2025.games.cg.jku.at/call-for-papers/'>here</a>
+  
 - title: AISTATS
   year: 2025
   id: aistats25
