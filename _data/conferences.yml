@@ -1,3 +1,18 @@
+- title: Testμ 2025
+  year: 2025
+  id: Testμ2025
+  link: https://www.lambdatest.com/testmuconf-2025
+  deadline: '2024-08-19 23:59:59'
+  abstract_deadline: '2024-08-19 23:59:59'
+  timezone: UTC-12
+  place: Virtual, free to attend
+  date: Aug 19-21, 2025
+  start: 2025-08-19
+  end: 2025-08-21
+  hindex: 100
+  sub: ['ML', 'NLP']
+  note: For more information about the event, vist <a href='https://www.lambdatest.com/testmuconf-2025'>here</a>
+  
 - title: AISTATS
   year: 2025
   id: aistats25
