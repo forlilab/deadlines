@@ -2,12 +2,12 @@
   year: 2025
   id: pdcat2025
   link: https://www.pd-cat.org/index.html
-  deadline: '2025-7-06 23:59:59'
+  deadline: '2025-8-01 23:59:59'
   timezone: AEST
   place: Gold Coast, Australia
-  date: November 14-16, 2025
-  start: 2025-11-14
-  end: 2025-11-16
+  date: November 22-24, 2025
+  start: 2025-11-22
+  end: 2025-11-24
   sub: ['ML', 'RO', 'AP', 'KR', 'DM', 'CV']
   note: More info <a href='https://www.pd-cat.org/call_for_paper.html'>here</a>
 
