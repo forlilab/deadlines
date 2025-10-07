@@ -2698,3 +2698,16 @@
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
+- title: PPSN
+  year: 2026
+  id: ppsn26  # title as lower case + last two digits of year
+  full_name: Parallel Problem Solving From Nature  # full conference name
+  link: https://ppsn2026.disi.unitn.it/
+  deadline: '2026-03-28 23:59:59'
+  timezone: UTC-12
+  place: Trento, Italy
+  date: August 29 - September 2, 2026
+  start: 2026-08-29
+  end: 2026-09-02
+  sub: ML
+  note: Check the conference website for details about the call for papers, tutorials, and workshops.
