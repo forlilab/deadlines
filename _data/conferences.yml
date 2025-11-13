@@ -1,3 +1,15 @@
+- title: ANTS
+  year: 2026
+  id: ants26
+  link: https://ants2026.org/
+  deadline: '2025-11-21 10:59:59'
+  timezone: GMT
+  place: Darmstadt, Germany
+  date: June 8-10, 2026
+  start: 2026-06-08
+  end: 2026-06-10
+  sub: RO
+
 - title: AISTATS
   year: 2025
   id: aistats25
