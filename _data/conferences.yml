@@ -2698,3 +2698,17 @@
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
+- title: CMISAI
+  year: 2026
+  id: cmisai26  # title as lower case + last two digits of year
+  full_name: Council for the Management of Information Systems (CMIS) AI Conference  # full conference name
+  link: https://cmis.ai
+  deadline: '2026-02-01'
+  timezone: Chicago, USA
+  place: College Station, USA
+  date: April, 10-11, 2026
+  start: 2026-04-10
+  end: 2026-04-11
+  paperslink: https://cmis.ai/submit-a-proposal
+  sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'KR', 'HCI']
+  note: Check the conference website for more details
