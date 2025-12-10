@@ -307,19 +307,6 @@
   sub: ML
   note: Mandatory abstract deadline on May 29, 2024, and supplementary material deadline on June 12, 2024. More info <a href='https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks'>here</a>.
 
-- title: ICRA
-  year: 2025
-  id: icra25
-  link: https://2025.ieee-icra.org
-  deadline: '2024-09-15 23:59:59'
-  timezone: America/Los_Angeles
-  place: Atlanta, USA
-  date: May 19 - May 23, 2025
-  start: 2025-05-19
-  end: 2025-05-23
-  hindex: 119
-  sub: RO
-
 - title: WACV
   year: 2025
   id: wacv25
@@ -364,18 +351,6 @@
   sub: ML
   note: Mandatory abstract deadline on April 26, 2024
 
-- title: ICASSP
-  year: 2025
-  id: icassp25
-  link: https://2025.ieeeicassp.org/
-  deadline: '2024-09-09 23:59:59'
-  timezone: UTC-12
-  place: Hyderabad, India
-  date: April 6-11, 2025
-  start: 2025-04-6
-  end: 2025-04-11
-  sub: SP
-
 - title: KIL
   year: 2024
   id: kil24
@@ -389,21 +364,6 @@
   end: 2024-08-25
   sub: ML
   Note: More info <a href='https://kil-workshop.github.io/'>here</a>
-
-- title: ISMIR
-  year: 2024
-  id: ismir24
-  link: https://ismir2024.ismir.net/
-  deadline: '2024-04-12 23:59:59'
-  abstract_deadline: '2024-04-05 23:59:59'
-  timezone: UTC-12
-  place: San Francisco, California, USA
-  date: November 10-14, 2024
-  start: 2024-11-10
-  end: 2024-11-14
-  hindex: 43
-  sub: SP
-  note: Mandatory abstract deadline on April 5th, 2024. More info <a href='https://ismir2024.ismir.net/authors/call-for-papers/'>here</a>.
 
 - title: SPAICE
   year: 2024
@@ -503,18 +463,6 @@
   sub: ML
   note: Co-located with ICML 2024. Submission deadlines are March 29 (proceedings and workshop track) and May 10 (fast track). More info <a href="http://approximateinference.org/call/index.html">here</a>
 
-- title: CoRL
-  year: 2024
-  id: corl24
-  link: https://corl.org
-  deadline: '2024-06-06 23:59:00'
-  timezone: UTC-12
-  place: Munich, Germany
-  date: November 06-09, 2024
-  start: 2024-11-06
-  end: 2024-11-09
-  sub: RO
-
 - title: MM
   year: 2024
   id: mm24
@@ -542,19 +490,6 @@
   hindex: 192
   sub: NLP
   note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
-
-- title: IROS
-  year: 2024
-  id: iros24
-  link: https://iros2024-abudhabi.org/
-  deadline: '2024-03-01 23:59:59'
-  timezone: America/Los_Angeles
-  place: Abu Dhabi, UAE
-  date: October 14-18, 2024
-  start: 2024-10-14
-  end: 2024-10-18
-  hindex: 80
-  sub: RO
 
 - title: KR
   year: 2024
@@ -652,20 +587,6 @@
   hindex: 114
   sub: DM
   note: Major data mining conference
-
-- title: RSS
-  year: 2024
-  id: rss24
-  link: https://roboticsconference.org/2024
-  deadline: '2024-02-02 23:59:59'
-  timezone: UTC-12
-  place: Delft, Netherlands
-  date: July 15-19, 2024
-  start: 2024-07-15
-  end: 2024-07-19
-  hindex: 61
-  sub: RO
-  note: Optional supplementary material deadline on February 08, 2024. More info <a href='https://roboticsconference.org/2024'>here</a>.
 
 - title: ICML
   year: 2025
@@ -813,19 +734,6 @@
   sub: NLP
   note: All submissions must be done through ARR. More info <a href='https://2024.naacl.org/calls/papers/'>here</a>.
 
-- title: ICASSP
-  year: 2024
-  id: icassp24
-  link: https://2024.ieeeicassp.org/
-  deadline: '2023-09-06 23:59:59'
-  timezone: UTC-12
-  place: Seoul, Korea
-  date: April 14-19, 2024
-  start: 2024-04-14
-  end: 2024-04-19
-  hindex: 123
-  sub: SP
-
 - title: WACV
   year: 2024
   id: wacv24
@@ -897,19 +805,6 @@
   hindex: 389
   sub: CV
   note: Mandatory paper registration deadline on November 03, 2023 and optional supplementary material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>.
-
-- title: ICRA
-  year: 2024
-  id: icra24
-  link: http://2024.ieee-icra.org/
-  deadline: '2023-09-15 23:59:59'
-  timezone: America/Los_Angeles
-  place: Yokohama, Japan
-  date: May 13 - May 17, 2024
-  start: 2024-05-13
-  end: 2024-05-17
-  hindex: 116
-  sub: RO
 
 - title: CoNLL
   year: 2023

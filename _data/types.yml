@@ -11,12 +11,6 @@
 - name: Natural Language Proc
   sub: NLP
   color: "#147df5"
-- name: Robotics
-  sub: RO
-  color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
-  color: "#580aff"
 - name: Data Mining
   sub: DM
   color: "#be0aff"
