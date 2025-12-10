@@ -11,7 +11,7 @@
   date: TBA
   start: 2025-12-01
   end: 2025-12-01
-  sub: BIO
+  sub: HEALTH
   note: Healthcare focused ML conference
 
 - title: MLHC
@@ -25,7 +25,7 @@
   date: TBA
   start: 2025-08-01
   end: 2025-08-01
-  sub: BIO
+  sub: HEALTH
   note: Healthcare ML conference
 
 - title: CHIL
@@ -39,7 +39,7 @@
   date: TBA
   start: 2025-06-01
   end: 2025-06-01
-  sub: BIO
+  sub: HEALTH
   note: Health AI conference
 
 - title: PSB
@@ -111,7 +111,7 @@
   date: 2026
   start: 2026-06-01
   end: 2026-06-06
-  sub: BIO
+  sub: CHEM
   note: Biennial GRC on computational chemistry
 
 - title: GRC CADD
@@ -125,7 +125,7 @@
   date: 2027
   start: 2027-06-01
   end: 2027-06-06
-  sub: BIO
+  sub: CHEM
   note: Biennial GRC on computer-aided drug design
 
 # AI & ML Conferences (keeping existing ones, removing duplicates)
