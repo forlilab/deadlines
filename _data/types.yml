@@ -9,7 +9,7 @@
   
 - name: Healthcare & Medical AI
   sub: HEALTH
-  color: "##6366f1" 
+  color: "#6366f1" 
   
 - name: AI for Science
   sub: AI4Science

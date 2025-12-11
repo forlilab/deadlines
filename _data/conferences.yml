@@ -5,71 +5,70 @@
   id: ml4h25
   full_name: Machine Learning for Health
   link: https://ml4h.cc/
-  deadline: '2025-09-11 23:59:00'
+  deadline: '2025-09-8 23:59:00'
   timezone: UTC-12
-  place: TBA
-  date: TBA
+  place: San Diego, CA
+  date: 2025
   start: 2025-12-01
-  end: 2025-12-01
+  end: 2025-12-02
   sub: HEALTH
-  note: Healthcare focused ML conference
+  note: The AHLI Machine Learning for Health (ML4H) Symposium
 
 - title: MLHC
-  year: 2025
-  id: mlhc25
+  year: 2026
+  id: mlhc26
   full_name: Machine Learning for Healthcare
   link: https://www.mlforhc.org
-  deadline: '2025-04-04 17:59:00'
+  deadline: '2025-04-10 23:59:00'
   timezone: America/New_York
-  place: TBA
-  date: TBA
-  start: 2025-08-01
-  end: 2025-08-01
+  place: Baltimore, Maryland
+  date: 2026
+  start: 2026-08-13
+  end: 2026-08-14
   sub: HEALTH
-  note: Healthcare ML conference
+  note: Machine Learning for Healthcare.
 
-- title: CHIL
-  year: 2025
-  id: chil25
+- title: AHLI CHIL
+  year: 2026
+  id: chil26
   full_name: Conference on Health, Inference, and Learning
   link: https://www.chilconference.org
-  deadline: '2025-02-10 23:59:00'
+  deadline: '2026-02-4 23:59:00'
   timezone: UTC-12
-  place: TBA
-  date: TBA
-  start: 2025-06-01
-  end: 2025-06-01
+  place: Seattle, WA
+  date: 2026
+  start: 2026-06-28
+  end: 2026-06-30
   sub: HEALTH
-  note: Health AI conference
+  note: 7th Annual Conference on Health, Inference, and Learning. The review process at CHIL is not well-equipped to evaluate machine learning for biology or biochemistry (e.g. drug design). Please contact us at info@chil.cc if you’re not sure if your submission qualifies.
 
 - title: PSB
-  year: 2025
-  id: psb25
+  year: 2026
+  id: psb26
   full_name: Pacific Symposium on Biocomputing
   link: http://psb.stanford.edu
-  deadline: '2024-08-01 23:59:00'
+  deadline: '2025-10-01 23:59:00'
   timezone: UTC
-  place: Hawaii
-  date: January 2025
-  start: 2025-01-03
-  end: 2025-01-07
+  place: Big Island, Hawaii
+  date: 2026
+  start: 2026-01-03
+  end: 2026-01-07
   sub: BIO
   note: Computational biology conference
 
 - title: ISMB
-  year: 2025
-  id: ismb25
+  year: 2026
+  id: ismb26
   full_name: Intelligent Systems for Molecular Biology
-  link: https://www.iscb.org/ismb2025
-  deadline: '2025-01-17 23:59:00'
+  link: https://www.iscb.org/ismb2026/home
+  deadline: '2026-01-20 23:59:00'
   timezone: UTC
-  place: Montreal, Canada
+  place: Washington, DC
   date: July 13-17, 2025
-  start: 2025-07-13
-  end: 2025-07-17
+  start: 2026-07-12
+  end: 2026-07-16
   sub: BIO
-  hindex: 52
-  note: Major computational biology conference
+  note: The International Society for Computational Biology (ISCB)
 
 - title: RECOMB
   year: 2025
@@ -85,6 +84,20 @@
   sub: BIO
   hindex: 45
   note: Premier computational biology conference
+
+- title: RECOMB
+  year: 2026
+  id: recomb26
+  full_name: Research in Computational Molecular Biology
+  link: https://recomb.org/recomb2025/
+  deadline: '2025-11-7 23:59:00'
+  timezone: UTC-12
+  place: Thessaloniki, Greece
+  date: 2026
+  start: 2026-05-26
+  end: 2026-05-29
+  sub: BIO
+  note: The 30th edition of a series of algorithmic computational biology conferences. Abstract submission deadline: 7 November 2025, 23:59 AoE; Full paper submission deadline: 20 November 2025, 23:59 AoE. 
 
 - title: NeurIPS MLCB
   year: 2024
@@ -108,8 +121,9 @@
   abstract_deadline: "2025-05-08 23:59"
   timezone: America/Los_Angeles
   date: December 10-16, 2025
-  place: Vancouver, Canada
-  hindex: 300
+  start: 2025-12-02
+  end: 2025-12-07
+  place: San Diego, CA
   sub: ML
 
 
