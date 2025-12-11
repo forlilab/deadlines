@@ -1,5 +1,3 @@
-好的！我重新调整颜色，让每个类别更容易区分：
-yaml---
 # Biology/Medical/Chemistry - Distinct colors for life sciences
 - name: Computational Biology
   sub: BIO
@@ -10,7 +8,7 @@ yaml---
   color: "#0ea5e9"  # Bright cyan
   
 - name: Healthcare & Medical AI
-  sub: HEALTH
+  sub: HEALT
   color: "#ef4444"  # Bright red
   
 - name: AI for Science
