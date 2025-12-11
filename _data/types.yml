@@ -8,8 +8,8 @@
   color: "#0ea5e9"  # Bright cyan
   
 - name: Healthcare & Medical AI
-  sub: HEALT
-  color: "#ef4444"  # Bright red
+  sub: HEALTH
+  color: "#db2777"  # Deep pink
   
 - name: AI for Science
   sub: AI4Science
