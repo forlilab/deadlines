@@ -1,28 +1,47 @@
----
-- name: Machine Learning
-  sub: ML
-  color: "#ffd300"
-- name: Computer Vision
-  sub: CV
-  color: "#deff0a"
-- name: Computer Graphics
-  sub: CG
-  color: "#0aefff"
-- name: Natural Language Proc
-  sub: NLP
-  color: "#147df5"
-- name: Data Mining
-  sub: DM
-  color: "#be0aff"
-- name: Knowledge Representation
-  sub: KR
-  color: "#32a855"
+好的！我重新调整颜色，让每个类别更容易区分：
+yaml---
+# Biology/Medical/Chemistry - Distinct colors for life sciences
 - name: Computational Biology
   sub: BIO
-  color: "#00d4aa"
-- name: Healthcare & Medical AI
-  sub: HEALTH
-  color: "#ff6b6b"
+  color: "#10b981"  # Emerald green
+  
 - name: Comp Chemistry & Drug Discovery
   sub: CHEM
-  color: "#4ecdc4"
+  color: "#0ea5e9"  # Bright cyan
+  
+- name: Healthcare & Medical AI
+  sub: HEALTH
+  color: "#ef4444"  # Bright red
+  
+- name: AI for Science
+  sub: AI4Science
+  color: "#a855f7"  # Purple
+  
+- name: AI for Life Sciences
+  sub: AI4LifeScience
+  color: "#ec4899"  # Hot pink
+
+# Traditional AI/ML categories - Well-separated colors
+- name: Machine Learning
+  sub: ML
+  color: "#fbbf24"  # Amber/Gold
+  
+- name: Computer Vision
+  sub: CV
+  color: "#84cc16"  # Lime green
+  
+- name: Computer Graphics
+  sub: CG
+  color: "#06b6d4"  # Cyan
+  
+- name: Natural Language Proc
+  sub: NLP
+  color: "#3b82f6"  # Blue
+  
+- name: Data Mining
+  sub: DM
+  color: "#f97316"  # Orange (changed from violet)
+  
+- name: Knowledge Representation
+  sub: KR
+  color: "#14b8a6"  # Teal
