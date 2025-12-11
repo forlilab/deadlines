@@ -419,16 +419,6 @@
   sub: DM
   note: Mandatory abstract deadline on May 13, 2024. More info <a href='https://cikm2024.org/call-for-papers/'>here</a>.
 
-- title: SIGGRAPH Asia
-  year: 2024
-  id: siggraphasia24
-  full_name: SIGGRAPH ASIA 2024
-  link: https://asia.siggraph.org/2024/
-  deadline: 2024-05-19 23:59
-  timezone: UTC-12
-  place: Tokyo, Japan
-  date: December, 3-6, 2024
-  sub: CG
 
 - title: NeurIPS
   year: 2024
@@ -519,19 +509,6 @@
   sub: KR
   note: Mandatory abstract deadline on April 24, 2024. More info <a href='https://kr.org/KR2024/'>here</a>.
 
-- title: SIGGRAPH
-  year: 2024
-  id: siggraph24
-  link: https://s2024.siggraph.org/
-  deadline: '2024-01-24 22:00:00'
-  abstract_deadline: '2024-01-23 22:00:00'
-  timezone: GMT
-  place: Denver, USA
-  date: July 28 - August 1, 2024
-  start: 2024-07-28
-  end: 2024-08-01
-  sub: CG
-  note: Mandatory abstract deadline on Jan 23, 2024. More info <a href='https://s2024.siggraph.org/program/technical-papers/'>here</a>.
 
 - title: UAI
   year: 2024

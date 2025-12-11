@@ -9,7 +9,7 @@
   
 - name: Healthcare & Medical AI
   sub: HEALTH
-  color: "#db2777"  # Deep pink
+  color: "##6366f1" 
   
 - name: AI for Science
   sub: AI4Science
@@ -17,7 +17,7 @@
   
 - name: AI for Life Sciences
   sub: AI4LifeScience
-  color: "#ec4899"  # Hot pink
+  color: "#14b8a6"  
 
 # Traditional AI/ML categories - Well-separated colors
 - name: Machine Learning
@@ -26,20 +26,16 @@
   
 - name: Computer Vision
   sub: CV
-  color: "#84cc16"  # Lime green
+  color: "#0ea5e9"  # Bright cyan
   
-- name: Computer Graphics
-  sub: CG
-  color: "#06b6d4"  # Cyan
-  
-- name: Natural Language Proc
+- name: Natural Language Processing
   sub: NLP
   color: "#3b82f6"  # Blue
   
 - name: Data Mining
   sub: DM
-  color: "#f97316"  # Orange (changed from violet)
+  color: "#f97316"  # Orange 
   
 - name: Knowledge Representation
   sub: KR
-  color: "#14b8a6"  # Teal
+  color: "#8b5cf6"  
