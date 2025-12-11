@@ -509,7 +509,7 @@
 
 
 - title: ACL
-  year: 2024
+  year: 2026
   id: acl26
   link: https://2026.aclweb.org/
   deadline: '2026-01-05 23:59:00'
@@ -519,7 +519,7 @@
   start: 2026-07-02
   end: 2026-07-07
   sub: ['NLP', 'ML', 'BIO', 'HEALTH']
-  note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
+  note: Submission Topics: AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
 
 
 - title: UAI
@@ -1181,6 +1181,21 @@
   sub: ML
   note: Mandatory abstract deadline on Oct 6, 2022. More info <a href='https://aistats.org/aistats2023/call-for-papers.html'>here</a>.
 
+
+- title: AISTATS
+  year: 2026
+  id: aistats26
+  link: https://virtual.aistats.org/
+  deadline: '2025-09-25 23:59:59'
+  timezone: UTC-12
+  place: Tangier, Morocco
+  date: May 2nd - 5th, 2026
+  start: 2026-05-02
+  end: 2026-05-05
+  sub: ['ML', 'AI4Science']
+  note: Mandatory abstract deadline on Oct 6, 2022. More info <a href='https://aistats.org/aistats2023/call-for-papers.html'>here</a>.
+
+
 - title: UAI
   year: 2023
   id: uai23
@@ -1192,6 +1207,7 @@
   start: 2023-07-31
   end: 2023-08-04
   sub: ML
+
 - title: AAMAS
   year: 2024
   id: aamas24
