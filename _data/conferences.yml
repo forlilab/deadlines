@@ -5,12 +5,16 @@
   id: ml4h25
   full_name: Machine Learning for Health
   link: https://ml4h.cc/
-  deadline: '2025-09-8 23:59:00'
+  deadline: '2025-09-08 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: San Diego, CA
   date: 2025
   start: 2025-12-01
   end: 2025-12-02
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: HEALTH
   note: The AHLI Machine Learning for Health (ML4H) Symposium
 
@@ -20,11 +24,15 @@
   full_name: Machine Learning for Healthcare
   link: https://www.mlforhc.org
   deadline: '2025-04-10 23:59:00'
+  abstract_deadline: 
   timezone: America/New_York
   place: Baltimore, Maryland
   date: 2026
   start: 2026-08-13
   end: 2026-08-14
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: HEALTH
   note: Machine Learning for Healthcare.
 
@@ -33,12 +41,16 @@
   id: chil26
   full_name: Conference on Health, Inference, and Learning
   link: https://www.chilconference.org
-  deadline: '2026-02-4 23:59:00'
+  deadline: '2026-02-04 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: Seattle, WA
   date: 2026
   start: 2026-06-28
   end: 2026-06-30
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: HEALTH
   note: 7th Annual Conference on Health, Inference, and Learning. The review process at CHIL is not well-equipped to evaluate machine learning for biology or biochemistry (e.g. drug design). Please contact us at info@chil.cc if you’re not sure if your submission qualifies.
 
@@ -48,11 +60,15 @@
   full_name: Pacific Symposium on Biocomputing
   link: http://psb.stanford.edu
   deadline: '2025-10-01 23:59:00'
+  abstract_deadline: 
   timezone: UTC
   place: Big Island, Hawaii
   date: 2026
   start: 2026-01-03
   end: 2026-01-07
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: BIO
   note: Computational biology conference
 
@@ -62,11 +78,15 @@
   full_name: Intelligent Systems for Molecular Biology
   link: https://www.iscb.org/ismb2026/home
   deadline: '2026-01-20 23:59:00'
+  abstract_deadline: 
   timezone: UTC
   place: Washington, DC
   date: July 13-17, 2025
   start: 2026-07-12
   end: 2026-07-16
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: BIO
   note: The International Society for Computational Biology (ISCB)
 
@@ -76,11 +96,15 @@
   full_name: Research in Computational Molecular Biology
   link: https://recomb.org/recomb2025/
   deadline: '2024-10-16 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: TBA
   date: April 2025
   start: 2025-04-26
   end: 2025-04-30
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: BIO
   note: Premier computational biology conference
 
@@ -89,12 +113,16 @@
   id: recomb26
   full_name: Research in Computational Molecular Biology
   link: https://recomb.org/recomb2025/
-  deadline: '2025-11-7 23:59:00'
+  deadline: '2025-11-07 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: Thessaloniki, Greece
   date: 2026
   start: 2026-05-26
   end: 2026-05-29
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: BIO
   note: The 30th edition of a series of algorithmic computational biology conferences. Abstract submission deadline: 7 November 2025, 23:59 AoE; Full paper submission deadline: 20 November 2025, 23:59 AoE. 
 
@@ -104,27 +132,35 @@
   full_name: Machine Learning in Computational Biology
   link: https://sites.google.com/cs.washington.edu/mlcb2024
   deadline: '2024-06-15 23:59:00'
+  abstract_deadline: 
   timezone: America/Los_Angeles
   place: TBA
   date: December 2024
   start: 2024-12-01
   end: 2024-12-01
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: BIO
   note: NeurIPS workshop on computational biology
 
 - title: NeurIPS
   year: 2025
   id: neurips25
+  full_name: 
   link: https://neurips.cc/
-  deadline: "2025-05-15 23:59"
-  abstract_deadline: "2025-05-08 23:59"
+  deadline: '2025-05-15 23:59:00'
+  abstract_deadline: '2025-05-08 23:59:00'
   timezone: America/Los_Angeles
+  place: San Diego, CA
   date: December 10-16, 2025
   start: 2025-12-02
   end: 2025-12-07
-  place: San Diego, CA
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ['ML', 'AI4Science', 'AI4LifeScience', 'HEALTH']
-
+  note: 
 
 - title: GRC Computational Chemistry
   year: 2026
@@ -132,11 +168,15 @@
   full_name: Gordon Research Conference on Computational Chemistry
   link: https://www.grc.org/computational-chemistry-conference/2026/
   deadline: TBD
+  abstract_deadline: 
   timezone: UTC
   place: Barcelona, Spain
   date: 2026
   start: 2026-07-19
   end: 2026-07-24
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: CHEM
   note: Molecular Discovery and Simulation in the AI Era
 
@@ -146,11 +186,15 @@
   full_name: Gordon Research Conference on Computer-Aided Drug Design
   link: https://www.grc.org/computer-aided-drug-design-conference/
   deadline: 
+  abstract_deadline: 
   timezone: UTC
   place: University of Southern Maine, Portland
   date: 2025
   start: 2025-07-13
   end: 2025-07-18
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: CHEM
   note: Exploring the Synergy of Machine Learning and Physics-Based Computational Chemistry to Accelerate Drug Discovery
 
@@ -159,6 +203,7 @@
 - title: AISTATS
   year: 2025
   id: aistats25
+  full_name: 
   link: https://aistats.org/aistats2025/index.html
   deadline: '2024-10-10 23:59:59'
   abstract_deadline: '2024-10-03 23:59:59'
@@ -167,6 +212,8 @@
   date: May 03-05, 2025
   start: 2025-05-03
   end: 2025-05-05
+  paperslink: 
+  pwclink: 
   hindex: 100
   sub: ML
   note: Abstract deadline on October 3, 2024. More info <a href='https://aistats.org/aistats2025/call-for-papers.html'>here</a>
@@ -174,6 +221,7 @@
 - title: CVPR
   year: 2025
   id: cvpr25
+  full_name: 
   link: https://cvpr.thecvf.com/Conferences/2025
   deadline: '2024-11-15 06:59:59'
   abstract_deadline: '2024-11-08 06:59:59'
@@ -182,6 +230,8 @@
   date: June 10-17, 2025
   start: 2025-06-10
   end: 2025-06-17
+  paperslink: 
+  pwclink: 
   hindex: 389
   sub: CV
   note: Mandatory paper registration deadline on November 07, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2025'>here</a>.
@@ -189,13 +239,17 @@
 - title: NAACL
   year: 2025
   id: naacl25
+  full_name: 
   link: https://2025.naacl.org
   deadline: '2024-10-15 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: Albuquerque, New Mexico, USA
   date: April 29 - May 4, 2024
   start: 2025-04-29
   end: 2025-05-04
+  paperslink: 
+  pwclink: 
   hindex: 132
   sub: NLP
   note: All submissions must be done through ARR. More info <a href='https://2025.naacl.org/calls/papers/'>here</a>.
@@ -203,6 +257,7 @@
 - title: ICLR
   year: 2025
   id: iclr25
+  full_name: 
   link: https://iclr.cc/Conferences/2025/CallForPapers
   deadline: '2024-10-01 23:59:59'
   abstract_deadline: '2024-09-27 23:59:59'
@@ -211,6 +266,8 @@
   date: Apr 24-28, 2025
   start: 2025-04-24
   end: 2025-04-28
+  paperslink: 
+  pwclink: 
   hindex: 304
   sub: ML
   note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
@@ -220,13 +277,16 @@
   id: log24
   full_name: Learning on Graphs Conference
   link: https://logconference.org
-  deadline: 2024-09-11 23:59
-  abstract_deadline: 2024-09-04 23:59
+  deadline: '2024-09-11 23:59:00'
+  abstract_deadline: '2024-09-04 23:59:00'
   timezone: UTC-12
   place: Virtual, free to attend
   date: November 26 - November 29, 2024
   start: 2024-11-26
   end: 2024-11-29
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Abstract deadline on Sep 04, 2024. More info <a href='https://logconference.org'>here</a>. 
 
@@ -242,20 +302,26 @@
   date: April 6 - April 10, 2025
   start: 2025-04-06
   end: 2025-04-10
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: DM
   note: Abstract deadline on Oct 2, 2024. More info <a href='https://ecir2025.eu/'>here</a>.  
   
 - title: WACV
   year: 2025
-  id: wacv25_2
+  id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
   deadline: '2024-09-09 23:59:59'
+  abstract_deadline: 
   timezone: UTC-7
   place: Tucson, Arizona
   date: Feb 28 – Mar 4, 2025
-  start: 2025-2-28
-  end: 2025-3-4
+  start: 2025-02-28
+  end: 2025-03-04
+  paperslink: 
+  pwclink: 
   hindex: 109
   sub: CV
   note: This is the second round of submissions. Summplementary material deadline on Sep 11, 2024. More info <a href='https://wacv2025.thecvf.com/'>here</a>.
@@ -263,6 +329,7 @@
 - title: AAMAS
   year: 2025
   id: aamas25
+  full_name: 
   link: https://aamas2025.org/
   deadline: '2024-10-16 23:59:59'
   abstract_deadline: '2024-10-09 23:59:59'
@@ -271,6 +338,9 @@
   date: May 19 - May 23, 2025
   start: 2025-05-19
   end: 2025-05-23
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Mandatory abstract deadline on Oct 09, 2024. More info <a href='https://aamas2025.org/'>here</a>.
 
@@ -280,11 +350,14 @@
   full_name: The 31st International Conference on Computational Linguistics
   link: https://coling2025.org/
   deadline: '2024-09-16 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: Abu Dhabi, UAE
   date: January 19-24, 2025
   start: 2025-01-19
   end: 2025-01-24
+  paperslink: 
+  pwclink: 
   hindex: 73
   sub: NLP
   note: More info can be found <a href="https://coling2025.org/calls/main_conference_papers/#important-dates">here</a>.
@@ -293,35 +366,42 @@
   year: 2025
   id: wsdm25
   full_name: ACM International Conference on Web Search and Data Mining
-  note: Abstract deadline on August 7, 2024
   link: https://www.wsdm-conference.org/2025/
   deadline: '2024-08-14 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: Hannover, Germany
   date: March 10-14, 2025
   start: 2025-03-10
   end: 2025-03-14
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: DM
+  note: Abstract deadline on August 7, 2024
 
 - title: Iberamia
   year: 2024
   id: iberamia24
   full_name: 18th Ibero-American Conference on Artificial Intelligence
-  hindex: 14
   link: https://www.iberamia.org/iberamia/iberamia2024/
   deadline: '2024-06-09 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: Montevideo, Uruguay
   date: November 13-15, 2024
   start: 2024-11-13
   end: 2024-11-15
+  paperslink: 
+  pwclink: 
+  hindex: 14
   sub: ML
+  note: 
 
 - title: NeurIPS [Dataset and Benchmarks Track]
   year: 2024
-  id: neurips24DBT
+  id: neurips24dbt
   full_name: Conference on Neural Information Processing Systems - Dataset and Benchmarks Track
-  hindex: 309
   link: https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks
   deadline: '2024-06-05 19:59:59'
   abstract_deadline: '2024-05-29 19:59:59'
@@ -330,6 +410,9 @@
   date: December 9 - December 15, 2024
   start: 2024-12-09
   end: 2024-12-15
+  paperslink: 
+  pwclink: 
+  hindex: 309
   sub: ML
   note: Mandatory abstract deadline on May 29, 2024, and supplementary material deadline on June 12, 2024. More info <a href='https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks'>here</a>.
 
@@ -339,12 +422,17 @@
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
   deadline: '2024-07-14 23:59:59'
+  abstract_deadline: 
   timezone: America/Los_Angeles
   place: Tucson, Arizona
   date: Feb 28 – Mar 4, 2025
-  start: 2025-2-28
-  end: 2025-3-4
+  start: 2025-02-28
+  end: 2025-03-04
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: CV
+  note: 
 
 - title: AAAI
   year: 2025
@@ -358,6 +446,8 @@
   date: February 25 - March 04, 2025
   start: 2025-02-25
   end: 2025-03-04
+  paperslink: 
+  pwclink: 
   hindex: 212
   sub: ML
   note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/conference/aaai/aaai-25/'>here</a>.
@@ -374,6 +464,9 @@
   date: November 25 - November 28, 2024
   start: 2024-11-25
   end: 2024-11-28
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Mandatory abstract deadline on April 26, 2024
 
@@ -383,13 +476,17 @@
   full_name: KDD Workshop on Knowledge-infused Learning
   link: https://kil-workshop.github.io/
   deadline: '2024-05-25 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: Barcelona, Spain
   date: August 25, 2024
   start: 2024-08-20
   end: 2024-08-25
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
-  Note: More info <a href='https://kil-workshop.github.io/'>here</a>
+  note: More info <a href='https://kil-workshop.github.io/'>here</a>
 
 - title: SPAICE
   year: 2024
@@ -397,38 +494,51 @@
   full_name: 1st ESA Conference on AI in and for Space
   link: https://spaice.esa.int/
   deadline: '2024-05-19 23:59:59'
+  abstract_deadline: 
   timezone: UTC+2
   place: ECSAT, Harwell, United Kingdom
   date: September 17-19, 2024
   start: 2024-09-17
   end: 2024-09-19
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Best papers will be selected for special issues on AI and space in IAA Acta Astronautica and Springer Astrodynamics. More info <a href='https://spaice.esa.int/call-for-papers/'>here</a>.
   
 - title: EMNLP
   year: 2024
   id: emnlp24
+  full_name: 
   link: https://2024.emnlp.org/
   deadline: '2024-06-15 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: Miami, Florida, USA
   date: November 12-16, 2024
   start: 2024-11-12
   end: 2024-11-16
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: NLP
   note: More info <a href='https://2024.emnlp.org/calls/main_conference_papers/'>here</a>.
   
 - title: CIKM
   year: 2024
-  id: CIKM24
+  id: cikm24
+  full_name: 
   link: https://cikm2024.org/
   deadline: '2024-05-20 23:59:59'
   abstract_deadline: '2024-05-13 23:59:59'
   timezone: UTC-12
   place: Boise, Idaho, USA
-  data: October 21 - October 25, 2024
+  date: October 21 - October 25, 2024
   start: 2024-10-21
   end: 2024-10-25
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: DM
   note: Mandatory abstract deadline on May 13, 2024. More info <a href='https://cikm2024.org/call-for-papers/'>here</a>.
 
@@ -437,7 +547,6 @@
   year: 2024
   id: neurips24
   full_name: Conference on Neural Information Processing Systems
-  hindex: 309
   link: https://nips.cc/Conferences/2024
   paperslink: https://proceedings.neurips.cc/
   pwclink: https://paperswithcode.com/conference/neurips-2024-12
@@ -448,6 +557,7 @@
   date: December 9 - December 15, 2024
   start: 2024-12-09
   end: 2024-12-15
+  hindex: 309
   sub: ML
   note: Mandatory abstract deadline on May 15, 2024
 
@@ -458,17 +568,22 @@
   full_name: Advances in Approximate Bayesian Inference
   link: http://approximateinference.org/
   deadline: '2024-03-29 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: Vienna, Austria
   date: July 21, 2024
   start: 2024-07-21
   end: 2024-07-21
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Co-located with ICML 2024. Submission deadlines are March 29 (proceedings and workshop track) and May 10 (fast track). More info <a href="http://approximateinference.org/call/index.html">here</a>
 
 - title: MM
   year: 2024
   id: mm24
+  full_name: 
   link: https://2024.acmmm.org/
   deadline: '2024-04-08 23:59:59'
   abstract_deadline: '2024-04-12 23:59:59'
@@ -477,39 +592,52 @@
   date: October 28 - November 1, 2024
   start: 2024-10-28
   end: 2024-11-01
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: CV
   note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
 
 - title: ACL
   year: 2024
   id: acl24
+  full_name: 
   link: https://2024.aclweb.org/
   deadline: '2024-02-15 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: Bangkok, Thailand
   date: August 11-16, 2024
   start: 2024-08-11
   end: 2024-08-16
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: NLP
   note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
-
-
 
 - title: UAI
   year: 2024
   id: uai24
+  full_name: 
   link: https://www.auai.org/uai2024/
   deadline: '2024-02-09 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: Barcelona, Spain
   date: July 15-19, 2024
   start: 2024-07-15
   end: 2024-07-19
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
+  note: 
 
 - title: CoLLAs
   year: 2024
   id: collas24
+  full_name: 
   link: https://lifelong-ml.cc
   deadline: '2024-02-15 23:59:59'
   abstract_deadline: '2024-02-09 23:59:59'
@@ -518,11 +646,16 @@
   date: July 29 - August 01, 2024
   start: 2024-07-29
   end: 2024-08-01
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
+  note: 
 
 - title: ECAI
   year: 2024
   id: ecai24
+  full_name: 
   link: https://www.ecai2024.eu/
   deadline: '2024-04-25 23:59:59'
   abstract_deadline: '2024-04-19 23:59:59'
@@ -531,12 +664,16 @@
   date: October 19-24, 2024
   start: 2024-10-19
   end: 2024-10-24
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
 
 - title: RLC
   year: 2024
   id: rlc24
+  full_name: 
   link: https://rl-conference.cc/
   deadline: '2024-03-08 23:59:59'
   abstract_deadline: '2024-03-01 23:59:59'
@@ -545,7 +682,11 @@
   date: August 09-12, 2024
   start: 2024-08-09
   end: 2024-08-12
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
+  note: 
 
 - title: KDD
   year: 2025
@@ -559,6 +700,8 @@
   date: August 3-7, 2025
   start: 2025-08-03
   end: 2025-08-07
+  paperslink: 
+  pwclink: 
   hindex: 114
   sub: DM
   note: Major data mining conference
@@ -575,6 +718,8 @@
   date: July 13-19, 2025
   start: 2025-07-13
   end: 2025-07-19
+  paperslink: 
+  pwclink: 
   hindex: 254
   sub: ML
   note: Premier ML conference
@@ -582,13 +727,17 @@
 - title: MICCAI
   year: 2024
   id: miccai2024
+  full_name: 
   link: https://conferences.miccai.org/2024/en/
   deadline: '2024-03-07 23:59:59'
+  abstract_deadline: 
   timezone: America/Los_Angeles
   place: Marrakech, Morocco
   date: October 6 - October 10, 2024
   start: 2024-10-06
   end: 2024-10-10
+  paperslink: 
+  pwclink: 
   hindex: 78
   sub: CV
   note: More info <a href='https://conferences.miccai.org/2024/'>here</a>.
@@ -596,6 +745,7 @@
 - title: SIGIR
   year: 2024
   id: sigir24
+  full_name: 
   link: https://sigir-2024.github.io
   deadline: '2024-01-25 23:59:00'
   abstract_deadline: '2024-01-18 23:59:00'
@@ -604,6 +754,8 @@
   date: July 14-18, 2024
   start: 2024-07-14
   end: 2024-07-18
+  paperslink: 
+  pwclink: 
   hindex: 66
   sub: DM
   note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
@@ -620,6 +772,9 @@
   date: October 7-9, 2024
   start: 2024-10-07
   end: 2024-10-09
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: NLP
   note: Mandatory abstract deadline on March 22, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>.
 
@@ -635,6 +790,8 @@
   date: August 03-09, 2024
   start: 2024-08-03
   end: 2024-08-09
+  paperslink: 
+  pwclink: 
   hindex: 133
   sub: ML
   note: Mandatory abstract deadline on January 10, 2024 and optional supplementary material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>.
@@ -643,6 +800,7 @@
 - title: ECCV
   year: 2024
   id: eccv24
+  full_name: 
   link: https://eccv2024.ecva.net/
   deadline: '2024-03-07 12:59:00'
   abstract_deadline: '2024-02-29 12:59:00'
@@ -651,10 +809,11 @@
   date: September 29 - October 04, 2024
   start: 2024-09-29
   end: 2024-10-04
+  paperslink: 
+  pwclink: 
   hindex: 238
   sub: CV
   note: More info <a href='https://eccv2024.ecva.net/'>here</a>.
-
 
 
 - title: ICPRAI
@@ -663,11 +822,15 @@
   full_name: International Conference on Pattern Recognition and Artificial Intelligence
   link: http://icprai2024.org/
   deadline: '2024-01-05 23:59:59'
+  abstract_deadline: 
   timezone: Asia/Seoul
   place: Jeju Island, South Korea
   date: Jun 18-21, 2024
   start: 2024-06-18
   end: 2024-06-21
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Soliciting both regular papers and work-in-progress papers. More info <a href='http://icprai2024.org/'>here</a>.
 
@@ -677,11 +840,14 @@
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2024.thecvf.com
   deadline: '2023-08-30 11:59:59'
+  abstract_deadline: 
   timezone: America/Los_Angeles
   place: Waikoloa, Hawaii, USA
   date: January 3-7, 2024
   start: 2024-01-03
   end: 2024-01-07
+  paperslink: 
+  pwclink: 
   hindex: 76
   sub: CV
   note: This is the Round 2 submission. Paper Registration is on August 23rd 2023. More info <a href='https://wacv2024.thecvf.com/submissions/'>here</a>.
@@ -692,30 +858,40 @@
   full_name: The 18th Conference of the European Chapter of the Association for Computational Linguistics
   link: https://2024.eacl.org/
   deadline: '2023-10-15 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: St. Julians, Malta
   date: March 17-22, 2024
   start: 2024-03-17
   end: 2024-03-22
+  paperslink: 
+  pwclink: 
   hindex: 38
-  note: Submission via ACL Rolling Review, commitment date 2023-12-20
   sub: NLP
+  note: Submission via ACL Rolling Review, commitment date 2023-12-20
 
 - title: 3DV
   year: 2024
   id: threedv24
+  full_name: 
   link: https://3dvconf.github.io/2024/
   deadline: '2023-08-07 23:59:59'
+  abstract_deadline: 
   timezone: America/Los_Angeles
   place: Davos, Switzerland
   date: March 18-21, 2024
   start: 2024-03-18
   end: 2024-03-21
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: CV
+  note: 
 
 - title: ICLR
   year: 2024
   id: iclr24
+  full_name: 
   link: https://iclr.cc/Conferences/2024
   deadline: '2023-09-28 23:59:59'
   abstract_deadline: '2023-09-23 23:59:59'
@@ -724,6 +900,8 @@
   date: May 07-11, 2024
   start: 2024-05-07
   end: 2024-05-11
+  paperslink: 
+  pwclink: 
   hindex: 286
   sub: ML
   note: Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
@@ -731,6 +909,7 @@
 - title: CVPR
   year: 2024
   id: cvpr24
+  full_name: 
   link: https://cvpr.thecvf.com/Conferences/2024
   deadline: '2023-11-17 23:59:59'
   abstract_deadline: '2023-11-03 23:59:59'
@@ -739,14 +918,16 @@
   date: June 17-21, 2024
   start: 2024-06-17
   end: 2024-06-21
+  paperslink: 
+  pwclink: 
   hindex: 389
   sub: CV
   note: Mandatory paper registration deadline on November 03, 2023 and optional supplementary material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>.
 
 - title: AutoML
   year: 2024
-  id: automl24  # title as lower case + last two digits of year
-  full_name: International Conference on Automated Machine Learning  # full conference name
+  id: automl24
+  full_name: International Conference on Automated Machine Learning
   link: https://2024.automl.cc/
   deadline: '2024-02-29 23:59:59'
   abstract_deadline: '2024-02-26 23:59:59'
@@ -755,25 +936,34 @@
   date: September, 09-12, 2024
   start: 2024-09-09
   end: 2024-09-12
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
 - title: AISTATS
   year: 2026
   id: aistats26
+  full_name: 
   link: https://virtual.aistats.org/
   deadline: '2025-09-25 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: Tangier, Morocco
-  date: May 2nd - 5th, 2026
+  date: May, 2 - 5, 2026
   start: 2026-05-02
   end: 2026-05-05
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ['ML', 'AI4Science']
   note: Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics.
 
 - title: AAMAS
   year: 2024
   id: aamas24
+  full_name: 
   link: https://www.aamas2024-conference.auckland.ac.nz/
   deadline: '2023-10-09 23:59:59'
   abstract_deadline: '2023-10-02 23:59:59'
@@ -782,6 +972,9 @@
   date: May 06 - May 10, 2024
   start: 2024-05-06
   end: 2024-05-10
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ML
   note: Mandatory abstract deadline on Oct 02, 2023. More info <a href='https://www.aamas2024-conference.auckland.ac.nz/calls/call-for-papers/'>here</a>.
 
@@ -797,6 +990,8 @@
   date: February 20 - February 28, 2024
   start: 2024-02-20
   end: 2024-02-28
+  paperslink: 
+  pwclink: 
   hindex: 180
   sub: ML
   note: Mandatory abstract deadline on Aug 08, 2023, and supplementary material deadline on Aug 18, 2023. More info <a href='https://aaai.org/aaai-conference/'>here</a>.
@@ -813,6 +1008,9 @@
   date: March 24-28, 2024
   start: 2024-03-24
   end: 2024-03-28
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: DM
   note: Abstract deadline on Sep 20, 2023. More info <a href='https://www.ecir2024.org/'>here</a>.  
 
@@ -822,17 +1020,21 @@
   full_name: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
   link: https://lrec-coling-2024.org
   deadline: '2023-10-20 23:59:59'
+  abstract_deadline: 
   timezone: UTC-12
   place: Torino, Italy
   date: May 20 - May 25, 2024
   start: 2024-05-20
   end: 2024-05-25
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: NLP
   note: Workshop / Tutorial proposals are also due on October 13th, more info <a href="https://lrec-coling-2024.lrec-conf.org/1stCfP-LRECCOLING2024.html">here</a>.
 
 - title: ACM KDD 2026 
   year: 2026
-  id: kdd26
+  id: acmkdd26
   full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining - AI for Sciences Track (First Edition)
   link: https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/
   deadline: '2026-02-08 23:59:59'
@@ -842,19 +1044,26 @@
   date: Aug 09 2026
   start: 2026-08-09
   end: 2026-08-13
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ['DM', 'AI4Science', 'AI4LifeScience']
   note: AI for Sciences Track, AI-driven Scientific Discovery: Using machine learning and generative models to propose hypotheses and identify new laws or relationships in data. AI-accelerated Simulations and Modeling: Integrating neural surrogates, physics-informed models, or reinforcement learning to speed up scientific simulations and numerical solvers. AI for Data-rich Science: Handling massive experimental, observational, or sensor data (e.g., in genomics, particle physics, astronomy, climate science). Scientific Foundation Models: Developing large-scale, cross-domain models that capture fundamental structures across scientific data (e.g., molecule-language models, multimodal science models). 
-
 
 - title: ACL
   year: 2026
   id: acl26
+  full_name: 
   link: https://2026.aclweb.org/
   deadline: '2026-01-05 23:59:00'
+  abstract_deadline: 
   timezone: UTC-12
   place: Bangkok, Thailand
   date: August 11-16, 2024
   start: 2026-07-02
   end: 2026-07-07
+  paperslink: 
+  pwclink: 
+  hindex: 
   sub: ['NLP', 'ML', 'BIO', 'HEALTH']
   note: Submission Topics: AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
