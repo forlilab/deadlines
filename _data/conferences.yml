@@ -1064,5 +1064,5 @@
   paperslink: 
   pwclink: 
   hindex: 
-  sub: 'NLP'
+  sub: ['NLP', 'ML', 'AI4Science', 'AI4LifeScience']
   note: Submission Topics - AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)

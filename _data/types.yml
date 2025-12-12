@@ -26,7 +26,7 @@
   
 - name: Computer Vision
   sub: CV
-  color: "#0ea5e9"  # Bright cyan
+  color: "#84cc16"
   
 - name: Natural Language Processing
   sub: NLP
