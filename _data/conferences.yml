@@ -495,19 +495,6 @@
   note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
 
 
-- title: ACL
-  year: 2026
-  id: acl26
-  link: https://2026.aclweb.org/
-  deadline: '2026-01-05 23:59:00'
-  timezone: UTC-12
-  place: Bangkok, Thailand
-  date: August 11-16, 2024
-  start: 2026-07-02
-  end: 2026-07-07
-  sub: ['NLP', 'ML', 'BIO', 'HEALTH']
-  note: Submission Topics: AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
-
 
 - title: UAI
   year: 2024
@@ -858,3 +845,17 @@
   end: 2026-08-13
   sub: ['DM', 'AI4Science', 'AI4LifeScience']
   note: AI for Sciences Track, AI-driven Scientific Discovery: Using machine learning and generative models to propose hypotheses and identify new laws or relationships in data. AI-accelerated Simulations and Modeling: Integrating neural surrogates, physics-informed models, or reinforcement learning to speed up scientific simulations and numerical solvers. AI for Data-rich Science: Handling massive experimental, observational, or sensor data (e.g., in genomics, particle physics, astronomy, climate science). Scientific Foundation Models: Developing large-scale, cross-domain models that capture fundamental structures across scientific data (e.g., molecule-language models, multimodal science models). 
+
+
+- title: ACL
+  year: 2026
+  id: acl26
+  link: https://2026.aclweb.org/
+  deadline: '2026-01-05 23:59:00'
+  timezone: UTC-12
+  place: Bangkok, Thailand
+  date: August 11-16, 2024
+  start: 2026-07-02
+  end: 2026-07-07
+  sub: ['NLP', 'ML', 'BIO', 'HEALTH']
+  note: Submission Topics: AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
