@@ -1048,7 +1048,7 @@
   hindex: 
   sub: ['DM', 'AI4Science', 'AI4LifeScience']
   note: AI for Sciences Track
-  
+
 - title: ACL
   year: 2026
   id: acl26
@@ -1065,4 +1065,4 @@
   pwclink: 
   hindex: 
   sub: ['NLP', 'ML', 'BIO', 'HEALTH']
-  note: Submission Topics: AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
+  note: Submission Topics - AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
