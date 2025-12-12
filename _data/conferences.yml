@@ -124,7 +124,7 @@
   pwclink: 
   hindex: 
   sub: BIO
-  
+
 - title: NeurIPS MLCB
   year: 2024
   id: mlcb24
@@ -1047,7 +1047,7 @@
   pwclink: 
   hindex: 
   sub: ['DM', 'AI4Science', 'AI4LifeScience']
-  note: AI for Sciences Track, AI-driven Scientific Discovery: Using machine learning and generative models to propose hypotheses and identify new laws or relationships in data. AI-accelerated Simulations and Modeling: Integrating neural surrogates, physics-informed models, or reinforcement learning to speed up scientific simulations and numerical solvers. AI for Data-rich Science: Handling massive experimental, observational, or sensor data (e.g., in genomics, particle physics, astronomy, climate science). Scientific Foundation Models: Developing large-scale, cross-domain models that capture fundamental structures across scientific data (e.g., molecule-language models, multimodal science models). 
+  note: AI for Sciences Track, AI-driven Scientific Discovery - Using machine learning and generative models to propose hypotheses and identify new laws or relationships in data. AI-accelerated Simulations and Modeling - Integrating neural surrogates, physics-informed models, or reinforcement learning to speed up scientific simulations and numerical solvers. AI for Data-rich Science: Handling massive experimental, observational, or sensor data (e.g., in genomics, particle physics, astronomy, climate science). Scientific Foundation Models - Developing large-scale, cross-domain models that capture fundamental structures across scientific data (e.g., molecule-language models, multimodal science models). 
 
 - title: ACL
   year: 2026
