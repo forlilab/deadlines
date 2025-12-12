@@ -1031,7 +1031,7 @@
   sub: NLP
   note: Workshop / Tutorial proposals are also due on October 13th, more info <a href="https://lrec-coling-2024.lrec-conf.org/1stCfP-LRECCOLING2024.html">here</a>.
 
-- title: ACM KDD 2026 
+- title: KDD
   year: 2026
   id: acmkdd26
   full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining - AI for Sciences Track (First Edition)
@@ -1064,5 +1064,5 @@
   paperslink: 
   pwclink: 
   hindex: 
-  sub: ['NLP', 'ML', 'BIO', 'HEALTH']
+  sub: ['NLP', 'ML', 'AI4Science', 'AI4LifeScience']
   note: Submission Topics - AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
