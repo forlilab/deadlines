@@ -5,7 +5,7 @@
   id: ml4h25
   full_name: Machine Learning for Health
   link: https://ml4h.cc/
-  deadline: '2025-09-08 23:59:00'
+  deadline: December, 01-02, 2025
   abstract_deadline: 
   timezone: UTC-12
   place: San Diego, CA
@@ -23,7 +23,7 @@
   id: mlhc26
   full_name: Machine Learning for Healthcare
   link: https://www.mlforhc.org
-  deadline: '2025-04-10 23:59:00'
+  deadline: August, 13-14, 2026
   abstract_deadline: 
   timezone: America/New_York
   place: Baltimore, Maryland
@@ -41,7 +41,7 @@
   id: chil26
   full_name: Conference on Health, Inference, and Learning
   link: https://www.chilconference.org
-  deadline: '2026-02-04 23:59:00'
+  deadline: June, 28-30, 2026
   abstract_deadline: 
   timezone: UTC-12
   place: Seattle, WA
@@ -59,7 +59,7 @@
   id: psb26
   full_name: Pacific Symposium on Biocomputing
   link: http://psb.stanford.edu
-  deadline: '2025-10-01 23:59:00'
+  deadline: January, 03-07, 2026
   abstract_deadline: 
   timezone: UTC
   place: Big Island, Hawaii
@@ -77,7 +77,7 @@
   id: ismb26
   full_name: Intelligent Systems for Molecular Biology
   link: https://www.iscb.org/ismb2026/home
-  deadline: '2026-01-20 23:59:00'
+  deadline: July, 12-16, 2026
   abstract_deadline: 
   timezone: UTC
   place: Washington, DC
@@ -95,7 +95,7 @@
   id: recomb25
   full_name: Research in Computational Molecular Biology
   link: https://recomb.org/recomb2025/
-  deadline: '2024-10-16 23:59:00'
+  deadline: April, 26-30, 2025
   abstract_deadline: 
   timezone: UTC-12
   place: TBA
@@ -113,7 +113,7 @@
   id: recomb26
   full_name: Research in Computational Molecular Biology
   link: https://recomb.org/recomb2025/
-  deadline: '2025-11-07 23:59:00'
+  deadline: May, 26-29, 2026
   abstract_deadline: 
   timezone: UTC-12
   place: Thessaloniki, Greece
@@ -130,7 +130,7 @@
   id: mlcb24
   full_name: Machine Learning in Computational Biology
   link: https://sites.google.com/cs.washington.edu/mlcb2024
-  deadline: '2024-06-15 23:59:00'
+  deadline: December, 01-01, 2024
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: TBA
@@ -148,8 +148,8 @@
   id: neurips25
   full_name: 
   link: https://neurips.cc/
-  deadline: '2025-05-15 23:59:00'
-  abstract_deadline: '2025-05-08 23:59:00'
+  deadline: December, 02-07, 2025
+  abstract_deadline: December, 02-07, 2025
   timezone: America/Los_Angeles
   place: San Diego, CA
   date: December 10-16, 2025
@@ -166,7 +166,7 @@
   id: grccompchem26
   full_name: Gordon Research Conference on Computational Chemistry
   link: https://www.grc.org/computational-chemistry-conference/2026/
-  deadline: TBD
+  deadline: July, 19-24, 2026
   abstract_deadline: 
   timezone: UTC
   place: Barcelona, Spain
@@ -184,7 +184,7 @@
   id: grccadd25
   full_name: Gordon Research Conference on Computer-Aided Drug Design
   link: https://www.grc.org/computer-aided-drug-design-conference/
-  deadline: 
+  deadline: July, 13-18, 2025
   abstract_deadline: 
   timezone: UTC
   place: University of Southern Maine, Portland
@@ -204,8 +204,8 @@
   id: aistats25
   full_name: 
   link: https://aistats.org/aistats2025/index.html
-  deadline: '2024-10-10 23:59:59'
-  abstract_deadline: '2024-10-03 23:59:59'
+  deadline: May, 03-05, 2025
+  abstract_deadline: May, 03-05, 2025
   timezone: UTC-12
   place: Phuket, Thailand
   date: May 03-05, 2025
@@ -222,8 +222,8 @@
   id: cvpr25
   full_name: 
   link: https://cvpr.thecvf.com/Conferences/2025
-  deadline: '2024-11-15 06:59:59'
-  abstract_deadline: '2024-11-08 06:59:59'
+  deadline: June, 10-17, 2025
+  abstract_deadline: June, 10-17, 2025
   timezone: GMT
   place: Nashville, Tennessee, USA
   date: June 10-17, 2025
@@ -240,7 +240,7 @@
   id: naacl25
   full_name: 
   link: https://2025.naacl.org
-  deadline: '2024-10-15 23:59:59'
+  deadline: April, 29-04, 2025
   abstract_deadline: 
   timezone: UTC-12
   place: Albuquerque, New Mexico, USA
@@ -258,8 +258,8 @@
   id: iclr25
   full_name: 
   link: https://iclr.cc/Conferences/2025/CallForPapers
-  deadline: '2024-10-01 23:59:59'
-  abstract_deadline: '2024-09-27 23:59:59'
+  deadline: April, 24-28, 2025
+  abstract_deadline: April, 24-28, 2025
   timezone: UTC-12
   place: Singapore
   date: Apr 24-28, 2025
@@ -276,8 +276,8 @@
   id: log24
   full_name: Learning on Graphs Conference
   link: https://logconference.org
-  deadline: '2024-09-11 23:59:00'
-  abstract_deadline: '2024-09-04 23:59:00'
+  deadline: November, 26-29, 2024
+  abstract_deadline: November, 26-29, 2024
   timezone: UTC-12
   place: Virtual, free to attend
   date: November 26 - November 29, 2024
@@ -294,8 +294,8 @@
   id: ecir25
   full_name: European Conference on Information Retrieval
   link: https://ecir2025.eu/
-  deadline: '2024-10-09 23:59:59'
-  abstract_deadline: '2024-10-02 23:59:59'
+  deadline: April, 06-10, 2025
+  abstract_deadline: April, 06-10, 2025
   timezone: UTC-12
   place: Lucca, Tuscany, Italy
   date: April 6 - April 10, 2025
@@ -312,7 +312,7 @@
   id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
-  deadline: '2024-09-09 23:59:59'
+  deadline: February, 28-04, 2025
   abstract_deadline: 
   timezone: UTC-7
   place: Tucson, Arizona
@@ -330,8 +330,8 @@
   id: aamas25
   full_name: 
   link: https://aamas2025.org/
-  deadline: '2024-10-16 23:59:59'
-  abstract_deadline: '2024-10-09 23:59:59'
+  deadline: May, 19-23, 2025
+  abstract_deadline: May, 19-23, 2025
   timezone: UTC-12
   place: Detroit, Michigan, USA
   date: May 19 - May 23, 2025
@@ -348,7 +348,7 @@
   id: coling25
   full_name: The 31st International Conference on Computational Linguistics
   link: https://coling2025.org/
-  deadline: '2024-09-16 23:59:59'
+  deadline: January, 19-24, 2025
   abstract_deadline: 
   timezone: UTC-12
   place: Abu Dhabi, UAE
@@ -366,7 +366,7 @@
   id: wsdm25
   full_name: ACM International Conference on Web Search and Data Mining
   link: https://www.wsdm-conference.org/2025/
-  deadline: '2024-08-14 23:59:00'
+  deadline: March, 10-14, 2025
   abstract_deadline: 
   timezone: UTC-12
   place: Hannover, Germany
@@ -384,7 +384,7 @@
   id: iberamia24
   full_name: 18th Ibero-American Conference on Artificial Intelligence
   link: https://www.iberamia.org/iberamia/iberamia2024/
-  deadline: '2024-06-09 23:59:59'
+  deadline: November, 13-15, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: Montevideo, Uruguay
@@ -402,8 +402,8 @@
   id: neurips24dbt
   full_name: Conference on Neural Information Processing Systems - Dataset and Benchmarks Track
   link: https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks
-  deadline: '2024-06-05 19:59:59'
-  abstract_deadline: '2024-05-29 19:59:59'
+  deadline: December, 09-15, 2024
+  abstract_deadline: December, 09-15, 2024
   timezone: UTC
   place: Vancouver, Canada
   date: December 9 - December 15, 2024
@@ -420,7 +420,7 @@
   id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
-  deadline: '2024-07-14 23:59:59'
+  deadline: February, 28-04, 2025
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Tucson, Arizona
@@ -438,8 +438,8 @@
   id: aaai25
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/conference/aaai/aaai-25/
-  deadline: '2024-08-15 23:59:59'
-  abstract_deadline: '2024-08-07 23:59:59'
+  deadline: February, 25-04, 2025
+  abstract_deadline: February, 25-04, 2025
   timezone: UTC-12
   place: Philadelphia, USA
   date: February 25 - March 04, 2025
@@ -456,8 +456,8 @@
   id: bmvc24
   full_name: The British Machine Vision Conference
   link: https://bmvc2024.org/
-  deadline: '2024-05-10 23:59:59'
-  abstract_deadline: '2024-04-26 23:59:59'
+  deadline: November, 25-28, 2024
+  abstract_deadline: November, 25-28, 2024
   timezone: GMT
   place: Glasgow, UK
   date: November 25 - November 28, 2024
@@ -474,7 +474,7 @@
   id: kil24
   full_name: KDD Workshop on Knowledge-infused Learning
   link: https://kil-workshop.github.io/
-  deadline: '2024-05-25 23:59:59'
+  deadline: August, 20-25, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: Barcelona, Spain
@@ -492,7 +492,7 @@
   id: spaice24
   full_name: 1st ESA Conference on AI in and for Space
   link: https://spaice.esa.int/
-  deadline: '2024-05-19 23:59:59'
+  deadline: September, 17-19, 2024
   abstract_deadline: 
   timezone: UTC+2
   place: ECSAT, Harwell, United Kingdom
@@ -510,7 +510,7 @@
   id: emnlp24
   full_name: 
   link: https://2024.emnlp.org/
-  deadline: '2024-06-15 23:59:00'
+  deadline: November, 12-16, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: Miami, Florida, USA
@@ -528,8 +528,8 @@
   id: cikm24
   full_name: 
   link: https://cikm2024.org/
-  deadline: '2024-05-20 23:59:59'
-  abstract_deadline: '2024-05-13 23:59:59'
+  deadline: October, 21-25, 2024
+  abstract_deadline: October, 21-25, 2024
   timezone: UTC-12
   place: Boise, Idaho, USA
   date: October 21 - October 25, 2024
@@ -549,8 +549,8 @@
   link: https://nips.cc/Conferences/2024
   paperslink: https://proceedings.neurips.cc/
   pwclink: https://paperswithcode.com/conference/neurips-2024-12
-  deadline: '2024-05-22 19:59:59'
-  abstract_deadline: '2024-05-15 19:59:59'
+  deadline: December, 09-15, 2024
+  abstract_deadline: December, 09-15, 2024
   timezone: UTC
   place: Vancouver, Canada
   date: December 9 - December 15, 2024
@@ -566,7 +566,7 @@
   id: aabi24
   full_name: Advances in Approximate Bayesian Inference
   link: http://approximateinference.org/
-  deadline: '2024-03-29 23:59:00'
+  deadline: July, 21-21, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: Vienna, Austria
@@ -584,8 +584,8 @@
   id: mm24
   full_name: 
   link: https://2024.acmmm.org/
-  deadline: '2024-04-08 23:59:59'
-  abstract_deadline: '2024-04-12 23:59:59'
+  deadline: October, 28-01, 2024
+  abstract_deadline: October, 28-01, 2024
   timezone: UTC-12
   place: Melbourne, Australia
   date: October 28 - November 1, 2024
@@ -602,7 +602,7 @@
   id: acl24
   full_name: 
   link: https://2024.aclweb.org/
-  deadline: '2024-02-15 23:59:00'
+  deadline: August, 11-16, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: Bangkok, Thailand
@@ -620,7 +620,7 @@
   id: uai24
   full_name: 
   link: https://www.auai.org/uai2024/
-  deadline: '2024-02-09 23:59:59'
+  deadline: July, 15-19, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: Barcelona, Spain
@@ -638,8 +638,8 @@
   id: collas24
   full_name: 
   link: https://lifelong-ml.cc
-  deadline: '2024-02-15 23:59:59'
-  abstract_deadline: '2024-02-09 23:59:59'
+  deadline: July, 29-01, 2024
+  abstract_deadline: July, 29-01, 2024
   timezone: UTC-12
   place: Pisa, Italy
   date: July 29 - August 01, 2024
@@ -656,8 +656,8 @@
   id: ecai24
   full_name: 
   link: https://www.ecai2024.eu/
-  deadline: '2024-04-25 23:59:59'
-  abstract_deadline: '2024-04-19 23:59:59'
+  deadline: October, 19-24, 2024
+  abstract_deadline: October, 19-24, 2024
   timezone: UTC-12
   place: Santiago de Compostela, Spain
   date: October 19-24, 2024
@@ -674,8 +674,8 @@
   id: rlc24
   full_name: 
   link: https://rl-conference.cc/
-  deadline: '2024-03-08 23:59:59'
-  abstract_deadline: '2024-03-01 23:59:59'
+  deadline: August, 09-12, 2024
+  abstract_deadline: August, 09-12, 2024
   timezone: UTC-12
   place: Amherst, Massachusetts, USA
   date: August 09-12, 2024
@@ -692,8 +692,8 @@
   id: kdd25
   full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
   link: https://kdd2025.kdd.org/
-  deadline: '2025-02-06 23:59:59'
-  abstract_deadline: '2025-01-30 23:59:59'
+  deadline: August, 03-07, 2025
+  abstract_deadline: August, 03-07, 2025
   timezone: UTC-12
   place: Toronto, Canada
   date: August 3-7, 2025
@@ -710,8 +710,8 @@
   id: icml25
   full_name: International Conference on Machine Learning
   link: https://icml.cc/Conferences/2025
-  deadline: '2025-02-06 23:59:59'
-  abstract_deadline: '2025-01-30 23:59:59'
+  deadline: July, 13-19, 2025
+  abstract_deadline: July, 13-19, 2025
   timezone: UTC
   place: Vancouver, Canada
   date: July 13-19, 2025
@@ -728,7 +728,7 @@
   id: miccai2024
   full_name: 
   link: https://conferences.miccai.org/2024/en/
-  deadline: '2024-03-07 23:59:59'
+  deadline: October, 06-10, 2024
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Marrakech, Morocco
@@ -746,8 +746,8 @@
   id: sigir24
   full_name: 
   link: https://sigir-2024.github.io
-  deadline: '2024-01-25 23:59:00'
-  abstract_deadline: '2024-01-18 23:59:00'
+  deadline: July, 14-18, 2024
+  abstract_deadline: July, 14-18, 2024
   timezone: UTC-12
   place: Washington D.C., USA
   date: July 14-18, 2024
@@ -764,8 +764,8 @@
   id: colm24
   full_name: 1st Conference on Language Modeling
   link: https://colmweb.org/
-  deadline: '2024-03-29 23:59:59'
-  abstract_deadline: '2024-03-22 23:59:59'
+  deadline: October, 07-09, 2024
+  abstract_deadline: October, 07-09, 2024
   timezone: UTC-12
   place: Philadelphia, USA
   date: October 7-9, 2024
@@ -782,8 +782,8 @@
   id: ijcai24
   full_name: International Joint Conference on Artificial Intelligence
   link: https://ijcai24.org/
-  deadline: '2024-01-17 23:59:59'
-  abstract_deadline: '2024-01-10 23:59:59'
+  deadline: August, 03-09, 2024
+  abstract_deadline: August, 03-09, 2024
   timezone: UTC-12
   place: Jeju, South Korea
   date: August 03-09, 2024
@@ -801,8 +801,8 @@
   id: eccv24
   full_name: 
   link: https://eccv2024.ecva.net/
-  deadline: '2024-03-07 12:59:00'
-  abstract_deadline: '2024-02-29 12:59:00'
+  deadline: September, 29-04, 2024
+  abstract_deadline: September, 29-04, 2024
   timezone: UTC-8
   place: Milano, Italy
   date: September 29 - October 04, 2024
@@ -820,7 +820,7 @@
   id: icprai24
   full_name: International Conference on Pattern Recognition and Artificial Intelligence
   link: http://icprai2024.org/
-  deadline: '2024-01-05 23:59:59'
+  deadline: June, 18-21, 2024
   abstract_deadline: 
   timezone: Asia/Seoul
   place: Jeju Island, South Korea
@@ -838,7 +838,7 @@
   id: wacv24
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2024.thecvf.com
-  deadline: '2023-08-30 11:59:59'
+  deadline: January, 03-07, 2024
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Waikoloa, Hawaii, USA
@@ -856,7 +856,7 @@
   id: eacl24
   full_name: The 18th Conference of the European Chapter of the Association for Computational Linguistics
   link: https://2024.eacl.org/
-  deadline: '2023-10-15 23:59:59'
+  deadline: March, 17-22, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: St. Julians, Malta
@@ -874,7 +874,7 @@
   id: threedv24
   full_name: 
   link: https://3dvconf.github.io/2024/
-  deadline: '2023-08-07 23:59:59'
+  deadline: March, 18-21, 2024
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Davos, Switzerland
@@ -892,8 +892,8 @@
   id: iclr24
   full_name: 
   link: https://iclr.cc/Conferences/2024
-  deadline: '2023-09-28 23:59:59'
-  abstract_deadline: '2023-09-23 23:59:59'
+  deadline: May, 07-11, 2024
+  abstract_deadline: May, 07-11, 2024
   timezone: UTC-12
   place: Vienna, Austria
   date: May 07-11, 2024
@@ -910,8 +910,8 @@
   id: cvpr24
   full_name: 
   link: https://cvpr.thecvf.com/Conferences/2024
-  deadline: '2023-11-17 23:59:59'
-  abstract_deadline: '2023-11-03 23:59:59'
+  deadline: June, 17-21, 2024
+  abstract_deadline: June, 17-21, 2024
   timezone: America/Los_Angeles
   place: Seattle, Washington, USA
   date: June 17-21, 2024
@@ -928,8 +928,8 @@
   id: automl24
   full_name: International Conference on Automated Machine Learning
   link: https://2024.automl.cc/
-  deadline: '2024-02-29 23:59:59'
-  abstract_deadline: '2024-02-26 23:59:59'
+  deadline: September, 09-12, 2024
+  abstract_deadline: September, 09-12, 2024
   timezone: UTC-12
   place: Paris, France
   date: September, 09-12, 2024
@@ -946,7 +946,7 @@
   id: aistats26
   full_name: 
   link: https://virtual.aistats.org/
-  deadline: '2025-09-25 23:59:59'
+  deadline: May, 02-05, 2026
   abstract_deadline: 
   timezone: UTC-12
   place: Tangier, Morocco
@@ -964,8 +964,8 @@
   id: aamas24
   full_name: 
   link: https://www.aamas2024-conference.auckland.ac.nz/
-  deadline: '2023-10-09 23:59:59'
-  abstract_deadline: '2023-10-02 23:59:59'
+  deadline: May, 06-10, 2024
+  abstract_deadline: May, 06-10, 2024
   timezone: UTC-12
   place: Auckland, New Zealand
   date: May 06 - May 10, 2024
@@ -982,8 +982,8 @@
   id: aaai24
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/aaai-conference/
-  deadline: '2023-08-15 23:59:59'
-  abstract_deadline: '2023-08-08 23:59:59'
+  deadline: February, 20-28, 2024
+  abstract_deadline: February, 20-28, 2024
   timezone: UTC-12
   place: Vancouver, Canada
   date: February 20 - February 28, 2024
@@ -1000,8 +1000,8 @@
   id: ecir24
   full_name: European Conference on Information Retrieval
   link: https://www.ecir2024.org/
-  deadline: '2023-09-27 23:59:59'
-  abstract_deadline: '2023-09-20 23:59:59'
+  deadline: March, 24-28, 2024
+  abstract_deadline: March, 24-28, 2024
   timezone: UTC-12
   place: Glasgow, Scotland
   date: March 24-28, 2024
@@ -1018,7 +1018,7 @@
   id: lreccoling24
   full_name: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
   link: https://lrec-coling-2024.org
-  deadline: '2023-10-20 23:59:59'
+  deadline: May, 20-25, 2024
   abstract_deadline: 
   timezone: UTC-12
   place: Torino, Italy
@@ -1036,8 +1036,8 @@
   id: acmkdd26
   full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining - AI for Sciences Track (First Edition)
   link: https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/
-  deadline: '2026-02-08 23:59:59'
-  abstract_deadline: '2026-02-01 23:59:59'
+  deadline: August, 09-13, 2026
+  abstract_deadline: August, 09-13, 2026
   timezone: UTC-12
   place: Jeju, Korea
   date: Aug, 09 2026
@@ -1054,7 +1054,7 @@
   id: acl26
   full_name: Annual Meeting of the Association for Computational Linguistics (ACL)
   link: https://2026.aclweb.org/
-  deadline: '2026-01-05 23:59:00'
+  deadline: July, 02-07, 2026
   abstract_deadline: 
   timezone: UTC-12
   place: Bangkok, Thailand
