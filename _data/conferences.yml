@@ -82,7 +82,6 @@
   start: 2025-04-26
   end: 2025-04-30
   sub: BIO
-  hindex: 45
   note: Premier computational biology conference
 
 - title: RECOMB
@@ -124,7 +123,7 @@
   start: 2025-12-02
   end: 2025-12-07
   place: San Diego, CA
-  sub: ML
+  sub: ['ML', 'AI4Science', 'AI4LifeScience', 'HEALTH']
 
 
 - title: GRC Computational Chemistry
@@ -155,7 +154,7 @@
   sub: CHEM
   note: Exploring the Synergy of Machine Learning and Physics-Based Computational Chemistry to Accelerate Drug Discovery
 
-# AI & ML Conferences
+# AI & ML Top Conferences
 
 - title: AISTATS
   year: 2025
@@ -770,7 +769,7 @@
   start: 2026-05-02
   end: 2026-05-05
   sub: ['ML', 'AI4Science']
-  note: Mandatory abstract deadline on Oct 6, 2022. More info <a href='https://aistats.org/aistats2023/call-for-papers.html'>here</a>.
+  note: Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics.
 
 - title: AAMAS
   year: 2024
