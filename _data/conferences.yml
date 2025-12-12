@@ -5,11 +5,11 @@
   id: ml4h25
   full_name: Machine Learning for Health
   link: https://ml4h.cc/
-  deadline: December, 01-02, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: San Diego, CA
-  date: 2025
+  date: December, 01-02, 2025
   start: 2025-12-01
   end: 2025-12-02
   paperslink: 
@@ -23,11 +23,11 @@
   id: mlhc26
   full_name: Machine Learning for Healthcare
   link: https://www.mlforhc.org
-  deadline: August, 13-14, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: America/New_York
   place: Baltimore, Maryland
-  date: 2026
+  date: August, 13-14, 2026
   start: 2026-08-13
   end: 2026-08-14
   paperslink: 
@@ -41,11 +41,11 @@
   id: chil26
   full_name: Conference on Health, Inference, and Learning
   link: https://www.chilconference.org
-  deadline: June, 28-30, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Seattle, WA
-  date: 2026
+  date: June, 28-30, 2026
   start: 2026-06-28
   end: 2026-06-30
   paperslink: 
@@ -59,11 +59,11 @@
   id: psb26
   full_name: Pacific Symposium on Biocomputing
   link: http://psb.stanford.edu
-  deadline: January, 03-07, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC
   place: Big Island, Hawaii
-  date: 2026
+  date: January, 03-07, 2026
   start: 2026-01-03
   end: 2026-01-07
   paperslink: 
@@ -77,11 +77,11 @@
   id: ismb26
   full_name: Intelligent Systems for Molecular Biology
   link: https://www.iscb.org/ismb2026/home
-  deadline: July, 12-16, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC
   place: Washington, DC
-  date: July 13-17, 2025
+  date: July, 12-16, 2026
   start: 2026-07-12
   end: 2026-07-16
   paperslink: 
@@ -95,11 +95,11 @@
   id: recomb25
   full_name: Research in Computational Molecular Biology
   link: https://recomb.org/recomb2025/
-  deadline: April, 26-30, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: TBA
-  date: April 2025
+  date: April, 26-30, 2025
   start: 2025-04-26
   end: 2025-04-30
   paperslink: 
@@ -113,11 +113,11 @@
   id: recomb26
   full_name: Research in Computational Molecular Biology
   link: https://recomb.org/recomb2025/
-  deadline: May, 26-29, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Thessaloniki, Greece
-  date: 2026
+  date: May, 26-29, 2026
   start: 2026-05-26
   end: 2026-05-29
   paperslink: 
@@ -130,11 +130,11 @@
   id: mlcb24
   full_name: Machine Learning in Computational Biology
   link: https://sites.google.com/cs.washington.edu/mlcb2024
-  deadline: December, 01-01, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: TBA
-  date: December 2024
+  date: December, 01-01, 2024
   start: 2024-12-01
   end: 2024-12-01
   paperslink: 
@@ -148,11 +148,11 @@
   id: neurips25
   full_name: 
   link: https://neurips.cc/
-  deadline: December, 02-07, 2025
-  abstract_deadline: December, 02-07, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: America/Los_Angeles
   place: San Diego, CA
-  date: December 10-16, 2025
+  date: December, 02-07, 2025
   start: 2025-12-02
   end: 2025-12-07
   paperslink: 
@@ -166,11 +166,11 @@
   id: grccompchem26
   full_name: Gordon Research Conference on Computational Chemistry
   link: https://www.grc.org/computational-chemistry-conference/2026/
-  deadline: July, 19-24, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC
   place: Barcelona, Spain
-  date: 2026
+  date: July, 19-24, 2026
   start: 2026-07-19
   end: 2026-07-24
   paperslink: 
@@ -184,11 +184,11 @@
   id: grccadd25
   full_name: Gordon Research Conference on Computer-Aided Drug Design
   link: https://www.grc.org/computer-aided-drug-design-conference/
-  deadline: July, 13-18, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC
   place: University of Southern Maine, Portland
-  date: 2025
+  date: July, 13-18, 2025
   start: 2025-07-13
   end: 2025-07-18
   paperslink: 
@@ -204,11 +204,11 @@
   id: aistats25
   full_name: 
   link: https://aistats.org/aistats2025/index.html
-  deadline: May, 03-05, 2025
-  abstract_deadline: May, 03-05, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Phuket, Thailand
-  date: May 03-05, 2025
+  date: May, 03-05, 2025
   start: 2025-05-03
   end: 2025-05-05
   paperslink: 
@@ -222,11 +222,11 @@
   id: cvpr25
   full_name: 
   link: https://cvpr.thecvf.com/Conferences/2025
-  deadline: June, 10-17, 2025
-  abstract_deadline: June, 10-17, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: GMT
   place: Nashville, Tennessee, USA
-  date: June 10-17, 2025
+  date: June, 10-17, 2025
   start: 2025-06-10
   end: 2025-06-17
   paperslink: 
@@ -240,11 +240,11 @@
   id: naacl25
   full_name: 
   link: https://2025.naacl.org
-  deadline: April, 29-04, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Albuquerque, New Mexico, USA
-  date: April 29 - May 4, 2024
+  date: April, 29-04, 2025
   start: 2025-04-29
   end: 2025-05-04
   paperslink: 
@@ -258,11 +258,11 @@
   id: iclr25
   full_name: 
   link: https://iclr.cc/Conferences/2025/CallForPapers
-  deadline: April, 24-28, 2025
-  abstract_deadline: April, 24-28, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Singapore
-  date: Apr 24-28, 2025
+  date: April, 24-28, 2025
   start: 2025-04-24
   end: 2025-04-28
   paperslink: 
@@ -276,11 +276,11 @@
   id: log24
   full_name: Learning on Graphs Conference
   link: https://logconference.org
-  deadline: November, 26-29, 2024
-  abstract_deadline: November, 26-29, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Virtual, free to attend
-  date: November 26 - November 29, 2024
+  date: November, 26-29, 2024
   start: 2024-11-26
   end: 2024-11-29
   paperslink: 
@@ -294,11 +294,11 @@
   id: ecir25
   full_name: European Conference on Information Retrieval
   link: https://ecir2025.eu/
-  deadline: April, 06-10, 2025
-  abstract_deadline: April, 06-10, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Lucca, Tuscany, Italy
-  date: April 6 - April 10, 2025
+  date: April, 06-10, 2025
   start: 2025-04-06
   end: 2025-04-10
   paperslink: 
@@ -312,11 +312,11 @@
   id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
-  deadline: February, 28-04, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-7
   place: Tucson, Arizona
-  date: Feb 28 – Mar 4, 2025
+  date: February, 28-04, 2025
   start: 2025-02-28
   end: 2025-03-04
   paperslink: 
@@ -330,11 +330,11 @@
   id: aamas25
   full_name: 
   link: https://aamas2025.org/
-  deadline: May, 19-23, 2025
-  abstract_deadline: May, 19-23, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Detroit, Michigan, USA
-  date: May 19 - May 23, 2025
+  date: May, 19-23, 2025
   start: 2025-05-19
   end: 2025-05-23
   paperslink: 
@@ -348,11 +348,11 @@
   id: coling25
   full_name: The 31st International Conference on Computational Linguistics
   link: https://coling2025.org/
-  deadline: January, 19-24, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Abu Dhabi, UAE
-  date: January 19-24, 2025
+  date: January, 19-24, 2025
   start: 2025-01-19
   end: 2025-01-24
   paperslink: 
@@ -366,11 +366,11 @@
   id: wsdm25
   full_name: ACM International Conference on Web Search and Data Mining
   link: https://www.wsdm-conference.org/2025/
-  deadline: March, 10-14, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Hannover, Germany
-  date: March 10-14, 2025
+  date: March, 10-14, 2025
   start: 2025-03-10
   end: 2025-03-14
   paperslink: 
@@ -384,11 +384,11 @@
   id: iberamia24
   full_name: 18th Ibero-American Conference on Artificial Intelligence
   link: https://www.iberamia.org/iberamia/iberamia2024/
-  deadline: November, 13-15, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Montevideo, Uruguay
-  date: November 13-15, 2024
+  date: November, 13-15, 2024
   start: 2024-11-13
   end: 2024-11-15
   paperslink: 
@@ -402,11 +402,11 @@
   id: neurips24dbt
   full_name: Conference on Neural Information Processing Systems - Dataset and Benchmarks Track
   link: https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks
-  deadline: December, 09-15, 2024
-  abstract_deadline: December, 09-15, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC
   place: Vancouver, Canada
-  date: December 9 - December 15, 2024
+  date: December, 09-15, 2024
   start: 2024-12-09
   end: 2024-12-15
   paperslink: 
@@ -420,11 +420,11 @@
   id: wacv25
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2025.thecvf.com/
-  deadline: February, 28-04, 2025
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Tucson, Arizona
-  date: Feb 28 – Mar 4, 2025
+  date: February, 28-04, 2025
   start: 2025-02-28
   end: 2025-03-04
   paperslink: 
@@ -438,11 +438,11 @@
   id: aaai25
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/conference/aaai/aaai-25/
-  deadline: February, 25-04, 2025
-  abstract_deadline: February, 25-04, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Philadelphia, USA
-  date: February 25 - March 04, 2025
+  date: February, 25-04, 2025
   start: 2025-02-25
   end: 2025-03-04
   paperslink: 
@@ -456,11 +456,11 @@
   id: bmvc24
   full_name: The British Machine Vision Conference
   link: https://bmvc2024.org/
-  deadline: November, 25-28, 2024
-  abstract_deadline: November, 25-28, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: GMT
   place: Glasgow, UK
-  date: November 25 - November 28, 2024
+  date: November, 25-28, 2024
   start: 2024-11-25
   end: 2024-11-28
   paperslink: 
@@ -474,11 +474,11 @@
   id: kil24
   full_name: KDD Workshop on Knowledge-infused Learning
   link: https://kil-workshop.github.io/
-  deadline: August, 20-25, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Barcelona, Spain
-  date: August 25, 2024
+  date: August, 20-25, 2024
   start: 2024-08-20
   end: 2024-08-25
   paperslink: 
@@ -492,11 +492,11 @@
   id: spaice24
   full_name: 1st ESA Conference on AI in and for Space
   link: https://spaice.esa.int/
-  deadline: September, 17-19, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC+2
   place: ECSAT, Harwell, United Kingdom
-  date: September 17-19, 2024
+  date: September, 17-19, 2024
   start: 2024-09-17
   end: 2024-09-19
   paperslink: 
@@ -510,11 +510,11 @@
   id: emnlp24
   full_name: 
   link: https://2024.emnlp.org/
-  deadline: November, 12-16, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Miami, Florida, USA
-  date: November 12-16, 2024
+  date: November, 12-16, 2024
   start: 2024-11-12
   end: 2024-11-16
   paperslink: 
@@ -528,11 +528,11 @@
   id: cikm24
   full_name: 
   link: https://cikm2024.org/
-  deadline: October, 21-25, 2024
-  abstract_deadline: October, 21-25, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Boise, Idaho, USA
-  date: October 21 - October 25, 2024
+  date: October, 21-25, 2024
   start: 2024-10-21
   end: 2024-10-25
   paperslink: 
@@ -549,11 +549,11 @@
   link: https://nips.cc/Conferences/2024
   paperslink: https://proceedings.neurips.cc/
   pwclink: https://paperswithcode.com/conference/neurips-2024-12
-  deadline: December, 09-15, 2024
-  abstract_deadline: December, 09-15, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC
   place: Vancouver, Canada
-  date: December 9 - December 15, 2024
+  date: December, 09-15, 2024
   start: 2024-12-09
   end: 2024-12-15
   hindex: 309
@@ -566,11 +566,11 @@
   id: aabi24
   full_name: Advances in Approximate Bayesian Inference
   link: http://approximateinference.org/
-  deadline: July, 21-21, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Vienna, Austria
-  date: July 21, 2024
+  date: July, 21-21, 2024
   start: 2024-07-21
   end: 2024-07-21
   paperslink: 
@@ -584,11 +584,11 @@
   id: mm24
   full_name: 
   link: https://2024.acmmm.org/
-  deadline: October, 28-01, 2024
-  abstract_deadline: October, 28-01, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Melbourne, Australia
-  date: October 28 - November 1, 2024
+  date: October, 28-01, 2024
   start: 2024-10-28
   end: 2024-11-01
   paperslink: 
@@ -602,11 +602,11 @@
   id: acl24
   full_name: 
   link: https://2024.aclweb.org/
-  deadline: August, 11-16, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Bangkok, Thailand
-  date: August 11-16, 2024
+  date: August, 11-16, 2024
   start: 2024-08-11
   end: 2024-08-16
   paperslink: 
@@ -620,11 +620,11 @@
   id: uai24
   full_name: 
   link: https://www.auai.org/uai2024/
-  deadline: July, 15-19, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Barcelona, Spain
-  date: July 15-19, 2024
+  date: July, 15-19, 2024
   start: 2024-07-15
   end: 2024-07-19
   paperslink: 
@@ -638,11 +638,11 @@
   id: collas24
   full_name: 
   link: https://lifelong-ml.cc
-  deadline: July, 29-01, 2024
-  abstract_deadline: July, 29-01, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Pisa, Italy
-  date: July 29 - August 01, 2024
+  date: July, 29-01, 2024
   start: 2024-07-29
   end: 2024-08-01
   paperslink: 
@@ -656,11 +656,11 @@
   id: ecai24
   full_name: 
   link: https://www.ecai2024.eu/
-  deadline: October, 19-24, 2024
-  abstract_deadline: October, 19-24, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Santiago de Compostela, Spain
-  date: October 19-24, 2024
+  date: October, 19-24, 2024
   start: 2024-10-19
   end: 2024-10-24
   paperslink: 
@@ -674,11 +674,11 @@
   id: rlc24
   full_name: 
   link: https://rl-conference.cc/
-  deadline: August, 09-12, 2024
-  abstract_deadline: August, 09-12, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Amherst, Massachusetts, USA
-  date: August 09-12, 2024
+  date: August, 09-12, 2024
   start: 2024-08-09
   end: 2024-08-12
   paperslink: 
@@ -692,11 +692,11 @@
   id: kdd25
   full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
   link: https://kdd2025.kdd.org/
-  deadline: August, 03-07, 2025
-  abstract_deadline: August, 03-07, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Toronto, Canada
-  date: August 3-7, 2025
+  date: August, 03-07, 2025
   start: 2025-08-03
   end: 2025-08-07
   paperslink: 
@@ -710,11 +710,11 @@
   id: icml25
   full_name: International Conference on Machine Learning
   link: https://icml.cc/Conferences/2025
-  deadline: July, 13-19, 2025
-  abstract_deadline: July, 13-19, 2025
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC
   place: Vancouver, Canada
-  date: July 13-19, 2025
+  date: July, 13-19, 2025
   start: 2025-07-13
   end: 2025-07-19
   paperslink: 
@@ -728,11 +728,11 @@
   id: miccai2024
   full_name: 
   link: https://conferences.miccai.org/2024/en/
-  deadline: October, 06-10, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Marrakech, Morocco
-  date: October 6 - October 10, 2024
+  date: October, 06-10, 2024
   start: 2024-10-06
   end: 2024-10-10
   paperslink: 
@@ -746,11 +746,11 @@
   id: sigir24
   full_name: 
   link: https://sigir-2024.github.io
-  deadline: July, 14-18, 2024
-  abstract_deadline: July, 14-18, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Washington D.C., USA
-  date: July 14-18, 2024
+  date: July, 14-18, 2024
   start: 2024-07-14
   end: 2024-07-18
   paperslink: 
@@ -764,11 +764,11 @@
   id: colm24
   full_name: 1st Conference on Language Modeling
   link: https://colmweb.org/
-  deadline: October, 07-09, 2024
-  abstract_deadline: October, 07-09, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Philadelphia, USA
-  date: October 7-9, 2024
+  date: October, 07-09, 2024
   start: 2024-10-07
   end: 2024-10-09
   paperslink: 
@@ -782,11 +782,11 @@
   id: ijcai24
   full_name: International Joint Conference on Artificial Intelligence
   link: https://ijcai24.org/
-  deadline: August, 03-09, 2024
-  abstract_deadline: August, 03-09, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Jeju, South Korea
-  date: August 03-09, 2024
+  date: August, 03-09, 2024
   start: 2024-08-03
   end: 2024-08-09
   paperslink: 
@@ -801,11 +801,11 @@
   id: eccv24
   full_name: 
   link: https://eccv2024.ecva.net/
-  deadline: September, 29-04, 2024
-  abstract_deadline: September, 29-04, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-8
   place: Milano, Italy
-  date: September 29 - October 04, 2024
+  date: September, 29-04, 2024
   start: 2024-09-29
   end: 2024-10-04
   paperslink: 
@@ -820,11 +820,11 @@
   id: icprai24
   full_name: International Conference on Pattern Recognition and Artificial Intelligence
   link: http://icprai2024.org/
-  deadline: June, 18-21, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: Asia/Seoul
   place: Jeju Island, South Korea
-  date: Jun 18-21, 2024
+  date: June, 18-21, 2024
   start: 2024-06-18
   end: 2024-06-21
   paperslink: 
@@ -838,11 +838,11 @@
   id: wacv24
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv2024.thecvf.com
-  deadline: January, 03-07, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Waikoloa, Hawaii, USA
-  date: January 3-7, 2024
+  date: January, 03-07, 2024
   start: 2024-01-03
   end: 2024-01-07
   paperslink: 
@@ -856,11 +856,11 @@
   id: eacl24
   full_name: The 18th Conference of the European Chapter of the Association for Computational Linguistics
   link: https://2024.eacl.org/
-  deadline: March, 17-22, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: St. Julians, Malta
-  date: March 17-22, 2024
+  date: March, 17-22, 2024
   start: 2024-03-17
   end: 2024-03-22
   paperslink: 
@@ -874,11 +874,11 @@
   id: threedv24
   full_name: 
   link: https://3dvconf.github.io/2024/
-  deadline: March, 18-21, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: America/Los_Angeles
   place: Davos, Switzerland
-  date: March 18-21, 2024
+  date: March, 18-21, 2024
   start: 2024-03-18
   end: 2024-03-21
   paperslink: 
@@ -892,11 +892,11 @@
   id: iclr24
   full_name: 
   link: https://iclr.cc/Conferences/2024
-  deadline: May, 07-11, 2024
-  abstract_deadline: May, 07-11, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Vienna, Austria
-  date: May 07-11, 2024
+  date: May, 07-11, 2024
   start: 2024-05-07
   end: 2024-05-11
   paperslink: 
@@ -910,11 +910,11 @@
   id: cvpr24
   full_name: 
   link: https://cvpr.thecvf.com/Conferences/2024
-  deadline: June, 17-21, 2024
-  abstract_deadline: June, 17-21, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: America/Los_Angeles
   place: Seattle, Washington, USA
-  date: June 17-21, 2024
+  date: June, 17-21, 2024
   start: 2024-06-17
   end: 2024-06-21
   paperslink: 
@@ -928,8 +928,8 @@
   id: automl24
   full_name: International Conference on Automated Machine Learning
   link: https://2024.automl.cc/
-  deadline: September, 09-12, 2024
-  abstract_deadline: September, 09-12, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Paris, France
   date: September, 09-12, 2024
@@ -946,11 +946,11 @@
   id: aistats26
   full_name: 
   link: https://virtual.aistats.org/
-  deadline: May, 02-05, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Tangier, Morocco
-  date: May, 2 - 5, 2026
+  date: May, 02-05, 2026
   start: 2026-05-02
   end: 2026-05-05
   paperslink: 
@@ -964,11 +964,11 @@
   id: aamas24
   full_name: 
   link: https://www.aamas2024-conference.auckland.ac.nz/
-  deadline: May, 06-10, 2024
-  abstract_deadline: May, 06-10, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Auckland, New Zealand
-  date: May 06 - May 10, 2024
+  date: May, 06-10, 2024
   start: 2024-05-06
   end: 2024-05-10
   paperslink: 
@@ -982,11 +982,11 @@
   id: aaai24
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/aaai-conference/
-  deadline: February, 20-28, 2024
-  abstract_deadline: February, 20-28, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Vancouver, Canada
-  date: February 20 - February 28, 2024
+  date: February, 20-28, 2024
   start: 2024-02-20
   end: 2024-02-28
   paperslink: 
@@ -1000,11 +1000,11 @@
   id: ecir24
   full_name: European Conference on Information Retrieval
   link: https://www.ecir2024.org/
-  deadline: March, 24-28, 2024
-  abstract_deadline: March, 24-28, 2024
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Glasgow, Scotland
-  date: March 24-28, 2024
+  date: March, 24-28, 2024
   start: 2024-03-24
   end: 2024-03-28
   paperslink: 
@@ -1018,11 +1018,11 @@
   id: lreccoling24
   full_name: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
   link: https://lrec-coling-2024.org
-  deadline: May, 20-25, 2024
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Torino, Italy
-  date: May 20 - May 25, 2024
+  date: May, 20-25, 2024
   start: 2024-05-20
   end: 2024-05-25
   paperslink: 
@@ -1036,11 +1036,11 @@
   id: acmkdd26
   full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining - AI for Sciences Track (First Edition)
   link: https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/
-  deadline: August, 09-13, 2026
-  abstract_deadline: August, 09-13, 2026
+  deadline: TBD # 恢复为提交截止日期格式
+  abstract_deadline: TBD # 恢复为提交截止日期格式
   timezone: UTC-12
   place: Jeju, Korea
-  date: Aug, 09 2026
+  date: August, 09-13, 2026
   start: 2026-08-09
   end: 2026-08-13
   paperslink: 
@@ -1054,7 +1054,7 @@
   id: acl26
   full_name: Annual Meeting of the Association for Computational Linguistics (ACL)
   link: https://2026.aclweb.org/
-  deadline: July, 02-07, 2026
+  deadline: TBD # 恢复为提交截止日期格式
   abstract_deadline: 
   timezone: UTC-12
   place: Bangkok, Thailand
