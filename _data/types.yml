@@ -19,7 +19,7 @@
   sub: AI4LifeScience
   color: "#14b8a6"  
 
-# Traditional AI/ML categories - Well-separated colors
+# Traditional AI/ML categories
 - name: Machine Learning
   sub: ML
   color: "#fbbf24"  # Amber/Gold

@@ -124,8 +124,7 @@
   pwclink: 
   hindex: 
   sub: BIO
-  note: The 30th edition of a series of algorithmic computational biology conferences. Abstract submission deadline: 7 November 2025, 23:59 AoE; Full paper submission deadline: 20 November 2025, 23:59 AoE. 
-
+  
 - title: NeurIPS MLCB
   year: 2024
   id: mlcb24
@@ -1053,7 +1052,7 @@
 - title: ACL
   year: 2026
   id: acl26
-  full_name: 
+  full_name: Annual Meeting of the Association for Computational Linguistics (ACL)
   link: https://2026.aclweb.org/
   deadline: '2026-01-05 23:59:00'
   abstract_deadline: 
