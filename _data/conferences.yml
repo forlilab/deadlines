@@ -158,7 +158,11 @@
   paperslink: 
   pwclink: 
   hindex: 
-  sub: ['ML', 'AI4Science', 'AI4LifeScience', 'HEALTH']
+  sub:
+    - ML
+    - AI4Science
+    - AI4LifeScience
+    - HEALTH
   note: 
 
 - title: GRC Computational Chemistry
@@ -956,7 +960,9 @@
   paperslink: 
   pwclink: 
   hindex: 
-  sub: ['ML', 'AI4Science']
+  sub:
+    - ML
+    - AI4Science
   note: Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics.
 
 - title: AAMAS
@@ -1046,7 +1052,10 @@
   paperslink: 
   pwclink: 
   hindex: 
-  sub: ['DM', 'AI4Science', 'AI4LifeScience']
+  sub:
+    - DM
+    - AI4Science
+    - AI4LifeScience
   note: AI for Sciences Track
 
 - title: ACL
@@ -1064,5 +1073,9 @@
   paperslink: 
   pwclink: 
   hindex: 
-  sub: ['NLP', 'ML', 'AI4Science', 'AI4LifeScience']
+  sub:
+    - NLP
+    - ML
+    - AI4Science
+    - AI4LifeScience
   note: Submission Topics - AI/LLM Agents, Clinical and Biomedical Applications, Summarization (Molecular2text, molecular reasoning)
