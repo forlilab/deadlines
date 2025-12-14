@@ -170,9 +170,9 @@
         {% for sub in conf.sub %}
         $('#{{conf.id}} .{{sub}}-tag').html(sub2name["{{sub}}"].toLocaleLowerCase());
         {% endfor %}
-        {% if conf.deadline == "TBA" %}
-          $('#{{conf.id}} .timer').html("TBA");
-          $('#{{conf.id}} .deadline-time').html("TBA");
+        {% if conf.deadline == "TBA" or conf.deadline == "TBD" %}
+          $('#{{conf.id}} .timer').html("{{conf.deadline}}");
+          $('#{{conf.id}} .deadline-time').html("{{conf.deadline}}");
         {% else %}
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
