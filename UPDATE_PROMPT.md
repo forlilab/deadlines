@@ -8,11 +8,11 @@ Copy and paste this prompt to Claude to update the deadlines:
 ## Prompt
 
 ```
-我有一个 AI 会议截止日期追踪网站 (https://forlilab.github.io/deadlines/)，代码在 /Users/jjian/Documents/Jinglin/github/deadlines
+I have an AI conference deadline tracking website (https://forlilab.github.io/deadlines/), with code at /Users/jjian/Documents/Jinglin/github/deadlines
 
-请帮我检查以下网址，查找新的会议或 workshop 截止日期，并更新到 _data/conferences.yml：
+Please help me check the following URLs for new conference or workshop deadlines, and update _data/conferences.yml:
 
-### 主要会议官网
+### Main Conference Websites
 1. NeurIPS: https://neurips.cc/
 2. ICML: https://icml.cc/
 3. ICLR: https://iclr.cc/
@@ -38,23 +38,23 @@ Copy and paste this prompt to Claude to update the deadlines:
 21. AI4D3: https://ai4d3.github.io/
 22. Imageomics: https://imageomics.github.io/
 
-### 聚合网站
+### Aggregator Websites
 23. AI Deadlines: https://aideadlin.es/
 24. WikiCFP AI: http://www.wikicfp.com/cfp/call?conference=artificial%20intelligence
 25. Papers With Code: https://paperswithcode.com/conferences
 
-### 格式要求
+### Format Requirements
 
-每个会议条目格式：
+Each conference entry format:
 ```yaml
-- title: CONF [Workshop]  # 主会议用 CONF，workshop 用 CONF [Name]
+- title: CONF [Workshop]  # Main conference: CONF, workshop: CONF [Name]
   year: 2026
-  id: conf26-workshop     # 小写，用连字符
+  id: conf26-workshop     # lowercase, use hyphens
   full_name: Full Conference Name
   link: https://...
-  deadline: '2026-01-15 23:59:00'  # 或 TBA
-  abstract_deadline: '2026-01-08 23:59:00'  # 可选
-  timezone: UTC-12  # 常用: UTC-12 (AoE), America/Los_Angeles, UTC
+  deadline: '2026-01-15 23:59:00'  # or TBA
+  abstract_deadline: '2026-01-08 23:59:00'  # optional
+  timezone: UTC-12  # common: UTC-12 (AoE), America/Los_Angeles, UTC
   place: City, Country
   date: Month DD-DD, 2026
   start: 2026-01-15
@@ -75,7 +75,7 @@ Copy and paste this prompt to Claude to update the deadlines:
   note: Additional notes here.
 ```
 
-### 可用的 Subject 类别
+### Available Subject Categories
 - ML: Machine Learning
 - CV: Computer Vision
 - NLP: Natural Language Processing
@@ -86,14 +86,14 @@ Copy and paste this prompt to Claude to update the deadlines:
 - BIO: Computational Biology
 - CHEM: Comp Chemistry & Drug Discovery
 
-### 任务
-1. 检查上述网址是否有新的截止日期
-2. 检查现有 TBA 条目是否有更新
-3. 添加新发现的相关 workshops
-4. 确保所有截止日期格式正确
-5. 提交并推送更改到 gh-pages 分支
+### Tasks
+1. Check the above URLs for new deadlines
+2. Check existing TBA entries for updates
+3. Add newly discovered relevant workshops
+4. Ensure all deadline formats are correct
+5. Commit and push changes to gh-pages branch
 
-请开始检查并更新。
+Please start checking and updating.
 ```
 
 ---
