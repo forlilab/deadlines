@@ -1291,6 +1291,71 @@
     - ML
   note: Abstract submission is mandatory. More info <a href='https://iclr.cc/Conferences/2026/Dates'>here</a>.
 
+# ICLR 2026 Workshops (April 26-27, 2026) - 40 workshops accepted, list TBA
+
+- title: ICLR [GEM]
+  year: 2026
+  id: iclr26-gem
+  full_name: Generative and Experimental Perspectives in bioMolecular Design
+  link: https://www.gembio.ai/
+  deadline: TBA
+  abstract_deadline:
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: April 26-27, 2026
+  start: 2026-04-26
+  end: 2026-04-27
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - AI4Science
+    - CHEM
+  note: Expected workshop. Partnership with Nature Biotechnology. Deadline TBA.
+
+- title: ICLR [LMRL]
+  year: 2026
+  id: iclr26-lmrl
+  full_name: Learning Meaningful Representations of Life
+  link: https://www.lmrl.org/
+  deadline: TBA
+  abstract_deadline:
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: April 26-27, 2026
+  start: 2026-04-26
+  end: 2026-04-27
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - BIO
+    - ML
+  note: Expected workshop on representation learning for biological data. Deadline TBA.
+
+- title: ICLR [MLGenX]
+  year: 2026
+  id: iclr26-mlgenx
+  full_name: Machine Learning for Genomics Explorations
+  link: https://mlgenx.github.io/
+  deadline: TBA
+  abstract_deadline:
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: April 26-27, 2026
+  start: 2026-04-26
+  end: 2026-04-27
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - BIO
+    - ML
+  note: Expected workshop on ML for genomics and gene therapies. Deadline TBA.
+
 - title: AAAI
   year: 2026
   id: aaai26
@@ -1385,6 +1450,71 @@
   sub:
     - ML
   note: Abstract deadline on Jan 23, 2026. More info <a href='https://icml.cc/Conferences/2026/Dates'>here</a>.
+
+# ICML 2026 Workshops (July 10-11, 2026) - Proposals due Feb 13, 2026
+
+- title: ICML [GenBio]
+  year: 2026
+  id: icml26-genbio
+  full_name: Generative AI for Biology
+  link: https://genbio-workshop.github.io/
+  deadline: TBA
+  abstract_deadline:
+  timezone: UTC-12
+  place: Seoul, South Korea
+  date: July 10-11, 2026
+  start: 2026-07-10
+  end: 2026-07-11
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - AI4Science
+    - CHEM
+  note: Expected workshop on generative AI for proteins, RNA, drug discovery. Deadline ~May 2026.
+
+- title: ICML [AI4Science]
+  year: 2026
+  id: icml26-ai4science
+  full_name: AI for Science Workshop
+  link: https://ai4sciencecommunity.github.io/
+  deadline: TBA
+  abstract_deadline:
+  timezone: UTC-12
+  place: Seoul, South Korea
+  date: July 10-11, 2026
+  start: 2026-07-10
+  end: 2026-07-11
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4Science
+    - AI4LifeScience
+    - ML
+  note: Expected 7th AI for Science workshop. Deadline ~May 2026.
+
+- title: ICML [FM4LS]
+  year: 2026
+  id: icml26-fm4ls
+  full_name: Multi-modal Foundation Models for Life Sciences
+  link: https://icml.cc/virtual/2025/workshop/39959
+  deadline: TBA
+  abstract_deadline:
+  timezone: UTC-12
+  place: Seoul, South Korea
+  date: July 10-11, 2026
+  start: 2026-07-10
+  end: 2026-07-11
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - BIO
+    - ML
+  note: Expected workshop on foundation models for proteins, genomics, metabolomics. Deadline ~May 2026.
 
 - title: IJCAI
   year: 2026
