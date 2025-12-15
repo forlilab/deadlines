@@ -1,41 +1,37 @@
-# Biology/Medical/Chemistry - Distinct colors for life sciences
-- name: Computational Biology
-  sub: BIO
-  color: "#10b981"  # Emerald green
-  
-- name: Comp Chemistry & Drug Discovery
-  sub: CHEM
-  color: "#0ea5e9"  # Bright cyan
-  
-- name: Healthcare & Medical AI
-  sub: HEALTH
-  color: "#6366f1" 
-  
-- name: AI for Science
-  sub: AI4Science
-  color: "#a855f7"  # Purple
-  
-- name: AI for Life Sciences
-  sub: AI4LifeScience
-  color: "#14b8a6"  
-
 # Traditional AI/ML categories
 - name: Machine Learning
   sub: ML
   color: "#fbbf24"  # Amber/Gold
-  
+
 - name: Computer Vision
   sub: CV
   color: "#84cc16"
-  
+
 - name: Natural Language Processing
   sub: NLP
   color: "#3b82f6"  # Blue
-  
+
 - name: Data Mining
   sub: DM
-  color: "#f97316"  # Orange 
-  
-- name: Knowledge Representation
-  sub: KR
-  color: "#8b5cf6"  
+  color: "#f97316"  # Orange
+
+- name: Healthcare & Medical AI
+  sub: HEALTH
+  color: "#6366f1"
+
+- name: AI for Science
+  sub: AI4Science
+  color: "#a855f7"  # Purple
+
+- name: AI for Life Sciences
+  sub: AI4LifeScience
+  color: "#14b8a6"
+
+# Biology/Medical/Chemistry - At the end
+- name: Computational Biology
+  sub: BIO
+  color: "#10b981"  # Emerald green
+
+- name: Comp Chemistry & Drug Discovery
+  sub: CHEM
+  color: "#0ea5e9"  # Bright cyan  

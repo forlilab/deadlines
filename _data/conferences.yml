@@ -147,7 +147,7 @@
 - title: NeurIPS
   year: 2025
   id: neurips25
-  full_name: 
+  full_name:
   link: https://neurips.cc/
   deadline: '2025-05-15 23:59:00'
   abstract_deadline: '2025-05-08 23:59:00'
@@ -156,15 +156,204 @@
   date: December 10-16, 2025
   start: 2025-12-02
   end: 2025-12-07
-  paperslink: 
-  pwclink: 
-  hindex: 
+  paperslink:
+  pwclink:
+  hindex:
   sub:
     - ML
     - AI4Science
     - AI4LifeScience
     - HEALTH
-  note: 
+  note:
+
+# NeurIPS 2025 Workshops
+
+- title: NeurIPS [AI4Science]
+  year: 2025
+  id: neurips25-ai4science
+  full_name: The Reach and Limits of AI for Scientific Discovery
+  link: https://ai4sciencecommunity.github.io/neurips25
+  deadline: '2025-08-27 23:59:00'
+  abstract_deadline: '2025-08-24 23:59:00'
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 7, 2025
+  start: 2025-12-07
+  end: 2025-12-07
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4Science
+    - AI4LifeScience
+    - ML
+  note: 6th AI for Science workshop. Non-archival. Submit on OpenReview.
+
+- title: NeurIPS [GenAI4Health]
+  year: 2025
+  id: neurips25-genai4health
+  full_name: GenAI for Health - Potential, Trust, and Policy Compliance
+  link: https://genai4health.github.io/
+  deadline: '2025-08-22 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 6, 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - HEALTH
+    - AI4LifeScience
+    - ML
+  note: 2nd workshop on GenAI for healthcare applications.
+
+- title: NeurIPS [AI4D3]
+  year: 2025
+  id: neurips25-ai4d3
+  full_name: AI Virtual Cells and Instruments - A New Era in Drug Discovery
+  link: https://ai4d3.github.io/2025/
+  deadline: '2025-09-07 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 6, 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - AI4Science
+    - CHEM
+  note: Workshop on AI virtual cells for drug discovery and development.
+
+- title: NeurIPS [Imageomics]
+  year: 2025
+  id: neurips25-imageomics
+  full_name: Imageomics - Discovering Biological Knowledge from Images Using AI
+  link: https://imageomics.github.io/Imageomics-NeurIPS-2025/
+  deadline: '2025-09-28 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 6, 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - AI4Science
+    - CV
+  note: 2nd round deadline. Short papers (5p) or full papers (9p).
+
+- title: NeurIPS [TS4H]
+  year: 2025
+  id: neurips25-ts4h
+  full_name: Learning from Time Series for Health
+  link: https://timeseries4health.github.io/
+  deadline: '2025-09-02 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 7, 2025
+  start: 2025-12-07
+  end: 2025-12-07
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - HEALTH
+    - AI4LifeScience
+    - ML
+  note: Extended deadline. Cross-submission with ML4H available.
+
+- title: NeurIPS [FM4LS]
+  year: 2025
+  id: neurips25-fm4ls
+  full_name: Multi-modal Foundation Models and LLMs for Life Sciences
+  link: https://nips2025fm4ls.github.io/
+  deadline: '2025-09-06 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 7, 2025
+  start: 2025-12-07
+  end: 2025-12-07
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - BIO
+    - ML
+  note: 2nd workshop on foundation models for proteins, DNAs, RNAs, etc.
+
+- title: NeurIPS [BrainBodyFM]
+  year: 2025
+  id: neurips25-brainbodyfm
+  full_name: Foundation Models for the Brain and Body
+  link: https://brainbodyfm-workshop.github.io/
+  deadline: '2025-08-29 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 6, 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - HEALTH
+    - AI4LifeScience
+    - ML
+  note: Workshop on foundation models for EEG, biosignals, and neuroscience.
+
+- title: NeurIPS [SEA]
+  year: 2025
+  id: neurips25-sea
+  full_name: Workshop on Scaling Environments for Agents
+  link: https://neurips.cc/virtual/2025/workshop/109540
+  deadline: '2025-09-01 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 6, 2025
+  start: 2025-12-06
+  end: 2025-12-06
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - ML
+  note: Extended deadline. Topics include LLM agents, multi-agent systems, sim2real.
+
+- title: NeurIPS [CURE-Bench]
+  year: 2025
+  id: neurips25-curebench
+  full_name: CURE-Bench Competition - AI Reasoning for Therapeutics
+  link: https://curebench.ai/
+  deadline: '2025-10-15 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: San Diego, CA
+  date: December 6-7, 2025
+  start: 2025-12-06
+  end: 2025-12-07
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - AI4LifeScience
+    - HEALTH
+    - CHEM
+  note: Competition Track. $40K in prizes. Drug decision-making and treatment planning. 
 
 - title: GRC Computational Chemistry
   year: 2026
