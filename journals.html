@@ -1,0 +1,196 @@
+---
+permalink: /journals/
+---
+<html>
+  <head>
+    {% include head.html %}
+    <style>
+      .journal-table {
+        width: 100%;
+        margin-top: 20px;
+      }
+      .journal-table th, .journal-table td {
+        padding: 12px 15px;
+        text-align: left;
+        border-bottom: 1px solid #dee2e6;
+      }
+      .journal-table th {
+        background-color: #343a40;
+        color: white;
+        font-weight: 600;
+      }
+      .journal-table tr:hover {
+        background-color: #f8f9fa;
+      }
+      .journal-table a {
+        color: #007bff;
+        text-decoration: none;
+      }
+      .journal-table a:hover {
+        text-decoration: underline;
+      }
+      .if-high { color: #dc3545; font-weight: bold; }
+      .if-medium { color: #fd7e14; font-weight: bold; }
+      .if-normal { color: #28a745; font-weight: bold; }
+      .category-header {
+        background-color: #6c757d !important;
+        color: white;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+
+  <body>
+    {% include header.html %}
+    <div class="container">
+      <br>
+      <h1>Journals of Interest</h1>
+      <div class="row">
+        <div class="meta col-sm-12">
+          A curated list of journals relevant to AI, computational biology, drug discovery, and healthcare.
+        </div>
+      </div>
+      <br>
+
+      <table class="journal-table table table-striped">
+        <thead>
+          <tr>
+            <th>Journal</th>
+            <th>Impact Factor</th>
+            <th>Category</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- High Impact General -->
+          <tr class="category-header">
+            <td colspan="3">General / Multidisciplinary</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/" target="_blank">Nature</a></td>
+            <td class="if-high">64.8</td>
+            <td>General Science</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.science.org/" target="_blank">Science</a></td>
+            <td class="if-high">56.9</td>
+            <td>General Science</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.cell.com/" target="_blank">Cell</a></td>
+            <td class="if-high">64.5</td>
+            <td>Life Sciences</td>
+          </tr>
+
+          <!-- Nature Family -->
+          <tr class="category-header">
+            <td colspan="3">Nature Family</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/nm/" target="_blank">Nature Medicine</a></td>
+            <td class="if-high">82.9</td>
+            <td>Medicine</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/nbt/" target="_blank">Nature Biotechnology</a></td>
+            <td class="if-high">46.9</td>
+            <td>Biotechnology</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/nmeth/" target="_blank">Nature Methods</a></td>
+            <td class="if-high">36.1</td>
+            <td>Methods</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/natmachintell/" target="_blank">Nature Machine Intelligence</a></td>
+            <td class="if-high">18.8</td>
+            <td>AI/ML</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/ncomms/" target="_blank">Nature Communications</a></td>
+            <td class="if-medium">14.7</td>
+            <td>Multidisciplinary</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/natcomputsci/" target="_blank">Nature Computational Science</a></td>
+            <td class="if-medium">12.0</td>
+            <td>Computational Science</td>
+          </tr>
+
+          <!-- Bioinformatics & Computational Biology -->
+          <tr class="category-header">
+            <td colspan="3">Bioinformatics & Computational Biology</td>
+          </tr>
+          <tr>
+            <td><a href="https://academic.oup.com/bioinformatics" target="_blank">Bioinformatics</a></td>
+            <td class="if-normal">4.4</td>
+            <td>Bioinformatics</td>
+          </tr>
+          <tr>
+            <td><a href="https://academic.oup.com/nar" target="_blank">Nucleic Acids Research</a></td>
+            <td class="if-medium">14.9</td>
+            <td>Molecular Biology</td>
+          </tr>
+          <tr>
+            <td><a href="https://genomebiology.biomedcentral.com/" target="_blank">Genome Biology</a></td>
+            <td class="if-medium">10.1</td>
+            <td>Genomics</td>
+          </tr>
+          <tr>
+            <td><a href="https://journals.plos.org/ploscompbiol/" target="_blank">PLOS Computational Biology</a></td>
+            <td class="if-normal">3.8</td>
+            <td>Computational Biology</td>
+          </tr>
+          <tr>
+            <td><a href="https://academic.oup.com/bib" target="_blank">Briefings in Bioinformatics</a></td>
+            <td class="if-normal">6.8</td>
+            <td>Bioinformatics</td>
+          </tr>
+
+          <!-- Drug Discovery & Chemistry -->
+          <tr class="category-header">
+            <td colspan="3">Drug Discovery & Chemistry</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.nature.com/nrd/" target="_blank">Nature Reviews Drug Discovery</a></td>
+            <td class="if-high">122.7</td>
+            <td>Drug Discovery</td>
+          </tr>
+          <tr>
+            <td><a href="https://pubs.acs.org/journal/jmcmar" target="_blank">Journal of Medicinal Chemistry</a></td>
+            <td class="if-normal">6.8</td>
+            <td>Medicinal Chemistry</td>
+          </tr>
+          <tr>
+            <td><a href="https://pubs.acs.org/journal/jcisd8" target="_blank">Journal of Chemical Information and Modeling</a></td>
+            <td class="if-normal">5.6</td>
+            <td>Cheminformatics</td>
+          </tr>
+
+          <!-- AI & Machine Learning -->
+          <tr class="category-header">
+            <td colspan="3">AI & Machine Learning</td>
+          </tr>
+          <tr>
+            <td><a href="https://www.jmlr.org/" target="_blank">Journal of Machine Learning Research (JMLR)</a></td>
+            <td class="if-normal">4.3</td>
+            <td>Machine Learning</td>
+          </tr>
+          <tr>
+            <td><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank">IEEE TPAMI</a></td>
+            <td class="if-high">20.8</td>
+            <td>Pattern Recognition</td>
+          </tr>
+
+        </tbody>
+      </table>
+
+      <br>
+      <div class="meta">
+        <small>Impact factors are approximate (2023-2024). Check journal websites for current metrics.</small>
+      </div>
+      <br>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>
