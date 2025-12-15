@@ -90,21 +90,57 @@
   sub: BIO
   note: The International Society for Computational Biology (ISCB)
 
+- title: ISMB/ECCB [BOSC]
+  year: 2025
+  id: bosc25
+  full_name: Bioinformatics Open Source Conference
+  link: https://www.open-bio.org/events/bosc-2025/
+  deadline: '2025-04-17 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: Liverpool, UK
+  date: July 21-22, 2025
+  start: 2025-07-21
+  end: 2025-07-22
+  paperslink:
+  pwclink:
+  hindex:
+  sub: BIO
+  note: Part of ISMB/ECCB 2025. Late poster deadline May 15. Andrew Su's student has presented at this conference.
+
+- title: ISMB [BOSC]
+  year: 2026
+  id: bosc26
+  full_name: Bioinformatics Open Source Conference
+  link: https://www.open-bio.org/events/bosc-2025/
+  deadline: TBA
+  abstract_deadline:
+  timezone: UTC-12
+  place: Washington, DC
+  date: July 12-16, 2026
+  start: 2026-07-12
+  end: 2026-07-16
+  paperslink:
+  pwclink:
+  hindex:
+  sub: BIO
+  note: Part of ISMB 2026. Deadline TBA. Andrew Su's student has presented at this conference.
+
 - title: RECOMB
   year: 2025
   id: recomb25
   full_name: Research in Computational Molecular Biology
   link: https://recomb.org/recomb2025/
   deadline: '2024-10-16 23:59:00'
-  abstract_deadline: 
+  abstract_deadline:
   timezone: UTC-12
   place: TBA
   date: April 2025
   start: 2025-04-26
   end: 2025-04-30
-  paperslink: 
-  pwclink: 
-  hindex: 
+  paperslink:
+  pwclink:
+  hindex:
   sub: BIO
   note: Premier computational biology conference
 
