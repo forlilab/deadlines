@@ -1,8 +1,9 @@
-// Get subjects from URL/Cache
+// Get subjects from URL parameter
 var url = new URL(window.location);
 subs = url.searchParams.get("sub");
-if (subs == undefined) {
-  subs = store.get("{{site.domain}}-subs");
+if (subs == undefined || subs === "") {
+  // No URL parameter - default to all subjects
+  subs = all_subs;
 } else {
   // Split by comma and match case with all_subs
   var url_subs = subs.split(",");
@@ -17,11 +18,10 @@ if (subs == undefined) {
       }
     }
   }
-}
-
-// Apply selections
-if (subs == undefined || subs.length === 0) {
-  subs = all_subs;
+  // If no valid subs found, default to all
+  if (subs.length === 0) {
+    subs = all_subs;
+  }
 }
 $("#subject-select").multiselect("select", subs);
 update_filtering({ subs: subs, all_subs: all_subs });
