@@ -94,7 +94,7 @@ function load_conference_list() {
       location: "{{conf.place}}",
       date: "{{conf.date}}",
       hindex: "{{conf.hindex}}",
-      subject: "{{conf.sub}}",
+      subject: "{{ conf.sub | join: ',' }}",
       startDate: Date.parse("{{conf.deadline}}"),
       endDate: Date.parse("{{conf.deadline}}"),
     });
@@ -102,7 +102,7 @@ function load_conference_list() {
     // add Conferences in chosen color
     {% if conf.start != "" %}
       var color = "black";
-      {% assign conf_sub = conf.sub | split: ',' | first | strip %} // use first sub to choose color
+      {% assign conf_sub = conf.sub | first %} // use first sub to choose color
       {% for type in site.data.types %}
             {% if conf_sub == type.sub %}
                     color = "{{type.color}}";
@@ -116,7 +116,7 @@ function load_conference_list() {
         location: "{{conf.place}}",
         date: "{{conf.date}}",
         hindex: "{{conf.hindex}}",
-        subject: "{{conf.sub}}",
+        subject: "{{ conf.sub | join: ',' }}",
         startDate: Date.parse("{{conf.start}}"),
         endDate: Date.parse("{{conf.end}}"),
       });
