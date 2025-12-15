@@ -173,6 +173,8 @@
         {% if conf.deadline == "TBA" or conf.deadline == "TBD" or conf.deadline == blank or conf.deadline == nil or conf.deadline == "" %}
           $('#{{conf.id}} .timer').html("TBA");
           $('#{{conf.id}} .deadline-time').html("TBA");
+          // Set a very large negative diff so TBA conferences sort to the end
+          $('#{{conf.id}}').attr("diff", -Infinity);
         {% else %}
           // adjust date according to deadline timezone
           var timezone = {% if conf.timezone %}"{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
