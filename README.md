@@ -1,89 +1,153 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+# Forli Lab AI Conference Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+[![Website](https://img.shields.io/badge/Website-forlilab.github.io%2Fdeadlines-blue)](https://forlilab.github.io/deadlines/)
+[![GitHub](https://img.shields.io/badge/GitHub-forlilab%2Fdeadlines-green)](https://github.com/forlilab/deadlines)
+
+Countdown timers for AI/ML conferences relevant to **computational biology**, **drug discovery**, **AI for science**, and **healthcare AI**.
+
+🔗 **Live Site**: [https://forlilab.github.io/deadlines/](https://forlilab.github.io/deadlines/)
+
+---
+
+## Conference Categories
+
+We track **9 categories** of conferences and workshops:
+
+### Core AI/ML Conferences
+| Category | Code | Description | Example Conferences |
+|----------|------|-------------|---------------------|
+| **Machine Learning** | `ML` | General ML/AI conferences | NeurIPS, ICML, ICLR, AAAI, IJCAI |
+| **Computer Vision** | `CV` | Vision and image analysis | CVPR, ECCV, WACV, MICCAI |
+| **Natural Language Processing** | `NLP` | Language and text | ACL, EMNLP, NAACL, EACL |
+| **Data Mining** | `DM` | Data science and mining | KDD, SIGIR, WSDM |
+
+### Life Science & Healthcare AI
+| Category | Code | Description | Example Conferences |
+|----------|------|-------------|---------------------|
+| **AI for Science** | `AI4Science` | Scientific discovery with AI | NeurIPS AI4Science, ICML AI4Science |
+| **AI for Life Sciences** | `AI4LifeScience` | Biology-focused AI | GenBio, GEM, LMRL, FM4LS |
+| **Healthcare & Medical AI** | `HEALTH` | Clinical and health applications | ML4H, CHIL, MLHC, GenAI4Health |
+| **Computational Biology** | `BIO` | Genomics, proteins, systems biology | RECOMB, ISMB, MLSB |
+| **Comp Chemistry & Drug Discovery** | `CHEM` | Molecular design, drug discovery | GRC CADD, AI4D3, CURE-Bench |
+
+---
+
+## What's Tracked
+
+### Major Conferences (Annual)
+- **NeurIPS** - Neural Information Processing Systems
+- **ICML** - International Conference on Machine Learning
+- **ICLR** - International Conference on Learning Representations
+- **CVPR/ECCV** - Computer Vision conferences
+- **ACL/EMNLP** - NLP conferences
+- **AAAI/IJCAI** - AI conferences
+- **KDD** - Data Mining
+- **MICCAI** - Medical Image Computing
+- **RECOMB/ISMB** - Computational Biology
+
+### Workshops (NeurIPS 2025)
+| Workshop | Focus |
+|----------|-------|
+| AI4Science | Scientific Discovery |
+| GenAI4Health | Healthcare GenAI |
+| AI4D3 | Virtual Cells, Drug Discovery |
+| Imageomics | Biological Imaging |
+| TS4H | Time Series for Health |
+| FM4LS | Foundation Models for Life Sciences |
+| BrainBodyFM | EEG, Biosignals |
+| CURE-Bench | Therapeutic Reasoning Competition |
+
+### Workshops (ICLR 2026)
+| Workshop | Focus |
+|----------|-------|
+| GEM | Generative bioMolecular Design |
+| LMRL | Representations of Life |
+| MLGenX | ML for Genomics |
+
+### Workshops (ICML 2026)
+| Workshop | Focus |
+|----------|-------|
+| GenBio | Generative AI for Biology |
+| AI4Science | AI for Scientific Discovery |
+| FM4LS | Foundation Models for Life Sciences |
+
+---
+
+## Features
+
+- ⏱️ **Countdown timers** to all deadlines
+- 📅 **Calendar view** of conferences and deadlines
+- 🏷️ **Filter by category** (ML, CV, NLP, HEALTH, AI4Science, etc.)
+- 🌍 **Timezone conversion** to your local time
+- 📥 **Export to Google Calendar** or .ics file
+- 🔗 **Direct links** to conference websites and accepted papers
+
+---
+
+## For Lab Members
+
+### Quick Filters
+- **All AI4Science**: [/?sub=AI4Science,AI4LifeScience](https://forlilab.github.io/deadlines/?sub=AI4Science,AI4LifeScience)
+- **Drug Discovery**: [/?sub=CHEM,AI4LifeScience](https://forlilab.github.io/deadlines/?sub=CHEM,AI4LifeScience)
+- **Healthcare**: [/?sub=HEALTH](https://forlilab.github.io/deadlines/?sub=HEALTH)
+- **Comp Bio**: [/?sub=BIO](https://forlilab.github.io/deadlines/?sub=BIO)
+- **Core ML**: [/?sub=ML](https://forlilab.github.io/deadlines/?sub=ML)
+
+### Adding New Conferences
+
+1. Edit `_data/conferences.yml`
+2. Follow this format:
+```yaml
+- title: NeurIPS [WorkshopName]
+  year: 2026
+  id: neurips26-workshopname
+  full_name: Full Workshop Name
+  link: https://workshop-website.com
+  deadline: '2026-09-15 23:59:00'
+  timezone: UTC-12
+  place: City, Country
+  date: December 6, 2026
+  start: 2026-12-06
+  end: 2026-12-06
+  sub:
+    - AI4Science
+    - AI4LifeScience
+  note: Workshop description
+```
+
+3. Commit and push to `gh-pages` branch
+
+See [UPDATE_PROMPT.md](UPDATE_PROMPT.md) for detailed instructions and a comprehensive URL checklist.
+
+---
 
 ## Contributing
 
-[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/0)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/0)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/1)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/1)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/2)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/2)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/3)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/3)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/4)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/4)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/5)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/5)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/6)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/6)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/7)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/7)
-
-Contributions are very welcome!
-
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
-
 To add or update a deadline:
-- Fork the repository
-- Update `_data/conferences.yml`
-- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
-    + See available timezone strings [here](https://momentjs.com/timezone/).
-- Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
-- Optionally add `hindex` (refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
-- Example:
-    ```yaml
-    - title: BestConf
-      year: 2022
-      id: bestconf22  # title as lower case + last two digits of year
-      full_name: Best Conference for Anything  # full conference name
-      link: link-to-website.com
-      deadline: YYYY-MM-DD HH:SS
-      abstract_deadline: YYYY-MM-DD HH:SS
-      timezone: Asia/Seoul
-      place: Incheon, South Korea
-      date: September, 18-22, 2022
-      start: YYYY-MM-DD
-      end: YYYY-MM-DD
-      paperslink: link-to-full-paper-list.com
-      pwclink: link-to-papers-with-code.com
-      hindex: 100.0
-      sub: SP
-      note: Important
-    ```
-- Send a pull request
+1. Fork the repository
+2. Update `_data/conferences.yml`
+3. Send a pull request
 
-## Forks & other useful listings
+Required fields: `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub`
 
-- [geodeadlin.es][3] by @LukasMosser
-- [neuro-deadlines][4] by @tbryn
-- [ai-challenge-deadlines][5] by @dieg0as
-- [CV-oriented ai-deadlines (with an emphasis on medical images)][8] by @duducheng
-- [es-deadlines (Embedded Systems, Computer Architecture, and Cyber-physical Systems)][9] by @AlexVonB and @k0nze
-- [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
-- [ccf-deadlines][11] by @ccfddl
-- [networking-deadlines (Computer Networking, Measurement)][12] by @andrewcchu
-- [ad-deadlines.com][13] by @daniel-bogdoll
-- [sec-deadlines.github.io/ (Security and Privacy)][14] by @clementfung
-- [pythondeadlin.es][15] by @jesperdramsch
-- [deadlines.openlifescience.ai (Healthcare domain conferences and workshops)][16] by @monk1337
-- [hci-deadlines.github.io (Human-Computer Interaction conferences)][17] by @makinteract
-- [ds-deadlines.github.io (Distributed Systems, Event-based Systems, Performance, and Software Engineering conferences)][18] by @ds-deadlines
-- [https://deadlines.cpusec.org/ (Computer Architecture-Security conferences)][19] by @hoseinyavarzadeh
-- [se-deadlines.github.io (Software engineering conferences)][20] by @sivanahamer and @imranur-rahman
-- [awesome-mlss (Machine Learning Summer Schools)][21] by @sshkhr and @gmberton
+Optional fields: `full_name`, `abstract_deadline`, `note`, `hindex`, `paperslink`, `pwclink`
+
+---
+
+## Acknowledgments
+
+This project is forked from [ai-deadlines](https://github.com/abhshkdz/ai-deadlines) by [@abhshkdz](https://github.com/abhshkdz).
+
+Customized for [Forli Lab](https://forlilab.github.io/) with focus on:
+- AI for Science
+- Drug Discovery & Computational Chemistry
+- Computational Biology
+- Healthcare AI
+
+---
 
 ## License
 
-This project is licensed under [MIT][1].
+This project is licensed under [MIT](https://abhshkdz.mit-license.org/).
 
-It uses:
-
-- [IcoMoon Icons](https://icomoon.io/#icons-icomoon): [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY4.0](http://creativecommons.org/licenses/by/4.0/)
-
-[1]: https://abhshkdz.mit-license.org/
-[2]: http://aideadlin.es/
-[3]: https://github.com/LukasMosser/geo-deadlines
-[4]: https://github.com/tbryn/neuro-deadlines
-[5]: https://github.com/dieg0as/ai-challenge-deadlines
-[6]: http://www.conferenceranks.com/#
-[8]: https://m3dv.github.io/ai-deadlines/
-[9]: https://ekut-es.github.io/es-deadlines/
-[10]: https://jackietseng.github.io/conference_call_for_paper/conferences.html
-[11]: https://ccfddl.github.io/
-[12]: https://noise-lab.net/networking-deadlines/
-[13]: https://ad-deadlines.com/
-[14]: https://sec-deadlines.github.io/
-[15]: https://pythondeadlin.es/
-[16]: https://deadlines.openlifescience.ai/
-[17]: https://hci-deadlines.github.io/
-[18]: https://ds-deadlines.github.io
-[19]: https://deadlines.cpusec.org/
-[20]: https://se-deadlines.github.io/
-[21]: https://awesome-mlss.com/
+Uses [IcoMoon Icons](https://icomoon.io/#icons-icomoon): [GPL](http://www.gnu.org/licenses/gpl.html) / [CC BY4.0](http://creativecommons.org/licenses/by/4.0/)
