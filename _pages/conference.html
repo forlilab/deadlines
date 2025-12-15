@@ -103,12 +103,12 @@ permalink:  /conference/
               $('#conf-title-href').text("{{conf.title}} {{conf.year}}");
               $('#conf-title-href').attr('href', "/conference?id={{conf.id}}");
               // set badges
-              var subs = '{{ conf.sub | join: ',' }}'.split(',');
+              var subs = '{{ conf.sub | join: "," }}'.split(',');
               for (let i = 0; i < subs.length; i++) {
                 var sub = subs[i].trim();
                 if (sub && sub2name[sub]) {
                   var sub_element = document.createElement('span');
-                  sub_element.className = "conf-sub conf-" + sub;
+                  sub_element.className = "conf-sub " + sub + "-tag";
                   sub_element.textContent = sub2name[sub];
                   $('#conf-subs').append(sub_element);
                 }
