@@ -42,17 +42,73 @@
   full_name: Conference on Health, Inference, and Learning
   link: https://www.chilconference.org
   deadline: '2026-02-04 23:59:00'
-  abstract_deadline: 
+  abstract_deadline:
   timezone: UTC-12
   place: Seattle, WA
   date: 2026
   start: 2026-06-28
   end: 2026-06-30
-  paperslink: 
-  pwclink: 
-  hindex: 
+  paperslink:
+  pwclink:
+  hindex:
   sub: HEALTH
-  note: 7th Annual Conference on Health, Inference, and Learning. The review process at CHIL is not well-equipped to evaluate machine learning for biology or biochemistry (e.g. drug design). Please contact us at info@chil.cc if you’re not sure if your submission qualifies.
+  note: 7th Annual Conference on Health, Inference, and Learning. The review process at CHIL is not well-equipped to evaluate machine learning for biology or biochemistry (e.g. drug design). Please contact us at info@chil.cc if you're not sure if your submission qualifies.
+
+- title: CHITA
+  year: 2025
+  id: chita25
+  full_name: Conference on Health IT and Analytics
+  link: https://www.mccombs.utexas.edu/faculty-research/departments/irom/chita/
+  deadline: '2025-02-28 23:59:00'
+  abstract_deadline:
+  timezone: America/Chicago
+  place: Austin, TX
+  date: April 26-27, 2025
+  start: 2025-04-26
+  end: 2025-04-27
+  paperslink:
+  pwclink:
+  hindex:
+  sub: HEALTH
+  note: 15th Annual Conference. Theme - "AI for Societal Health". Doctoral Consortium on April 25.
+
+- title: IEEE/ACM CHASE
+  year: 2025
+  id: chase25
+  full_name: IEEE/ACM Conference on Connected Health - Applications, Systems and Engineering Technologies
+  link: https://conferences.computer.org/chase2025/
+  deadline: '2025-01-06 23:59:00'
+  abstract_deadline:
+  timezone: UTC-12
+  place: New York City, NY
+  date: June 24-26, 2025
+  start: 2025-06-24
+  end: 2025-06-26
+  paperslink:
+  pwclink:
+  hindex:
+  sub: HEALTH
+  note: Workshop papers deadline Feb 16. Demos/Posters deadline Feb 24. Accepted papers can be published in ACM Proceedings or Elsevier Smart Health Journal.
+
+- title: ACM-BCB
+  year: 2026
+  id: acm-bcb26
+  full_name: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics
+  link: https://acm-bcb.org/
+  deadline: '2026-02-28 23:59:00'
+  abstract_deadline: '2026-02-21 23:59:00'
+  timezone: UTC-12
+  place: Calabria, Italy
+  date: June 30 - July 3, 2026
+  start: 2026-06-30
+  end: 2026-07-03
+  paperslink:
+  pwclink:
+  hindex:
+  sub:
+    - BIO
+    - HEALTH
+  note: University of Calabria Congress Center. Two-phase review system. Abstract deadline Feb 21.
 
 - title: PSB
   year: 2026
@@ -185,7 +241,7 @@
   id: neurips25
   full_name:
   link: https://neurips.cc/
-  deadline: '2025-06-15 23:59:00'
+  deadline: '2025-05-15 23:59:00'
   abstract_deadline: '2025-06-08 23:59:00'
   timezone: America/Los_Angeles
   place: San Diego, CA
